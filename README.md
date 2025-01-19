@@ -16,3 +16,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - Hidden Dangers of XSS Vulnerabilities — Real Case
 
   https://medium.com/meetcyber/hidden-dangers-of-xss-vulnerabilities-real-case-22177daa6fc8
+
+- Humorous XSS Vulnerabilities in a Movie Website
+
+  https://medium.com/meetcyber/humorous-xss-vulnerabilities-in-a-movie-website-3600d7828661
