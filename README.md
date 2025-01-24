@@ -20,3 +20,11 @@ This repository serves as a collection of insightful and informative blog posts 
 - Humorous XSS Vulnerabilities in a Movie Website
 
   https://medium.com/meetcyber/humorous-xss-vulnerabilities-in-a-movie-website-3600d7828661
+
+- A New Bug Hunting Story: Open Redirection Vulnerability
+
+  https://medium.com/meetcyber/a-new-bug-hunting-story-open-redirection-vulnerability-33a1b6374f88
+
+- Account Takeover in Mobile Apps: How to Exploit Vulnerabilities
+
+  https://medium.com/meetcyber/account-takeover-in-mobile-apps-how-to-exploit-vulnerabilities-dc1b55ef6891
