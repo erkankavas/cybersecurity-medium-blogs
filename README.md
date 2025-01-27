@@ -28,3 +28,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - Account Takeover in Mobile Apps: How to Exploit Vulnerabilities
 
   https://medium.com/meetcyber/account-takeover-in-mobile-apps-how-to-exploit-vulnerabilities-dc1b55ef6891
+
+- How i find sensitive files in 2 minutes
+
+  https://medium.com/@securityinsights/how-i-find-sensitive-files-in-2-minutes-easy-bug-2-d53965b7e4f4
