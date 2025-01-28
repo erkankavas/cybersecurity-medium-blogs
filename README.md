@@ -32,3 +32,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - How i find sensitive files in 2 minutes
 
   https://medium.com/@securityinsights/how-i-find-sensitive-files-in-2-minutes-easy-bug-2-d53965b7e4f4
+
+- Zero-Click Account Takeover
+
+  https://medium.com/@osamamohamed21212121/zero-click-account-takeover-critical-bug-ab31f27b8674
