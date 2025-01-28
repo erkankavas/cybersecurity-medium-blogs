@@ -36,3 +36,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - Zero-Click Account Takeover
 
   https://medium.com/@osamamohamed21212121/zero-click-account-takeover-critical-bug-ab31f27b8674
+
+- Bypassing Rate Limit Protection to Account Takeover
+
+  https://medium.com/@sohailahmed0x0/bypassing-rate-limit-protection-to-account-takeover-fe44598fc1df
