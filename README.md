@@ -40,3 +40,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - Bypassing Rate Limit Protection to Account Takeover
 
   https://medium.com/@sohailahmed0x0/bypassing-rate-limit-protection-to-account-takeover-fe44598fc1df
+
+- How I Found a Bug in Sony and Earned Exclusive Swag!
+
+  https://medium.com/@josekuttykunnelthazhebinu/how-i-found-a-bug-in-sony-and-earned-exclusive-swag-f565d56c395e
