@@ -44,3 +44,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - How I Found a Bug in Sony and Earned Exclusive Swag!
 
   https://medium.com/@josekuttykunnelthazhebinu/how-i-found-a-bug-in-sony-and-earned-exclusive-swag-f565d56c395e
+
+- Easiest $225 Ever: A Simple SQL Injection Win!
+  
+  https://medium.com/@whoadnan01/easiest-225-ever-a-simple-sql-injection-win-f40c0a6b8e45
