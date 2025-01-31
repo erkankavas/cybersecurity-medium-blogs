@@ -48,3 +48,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - Easiest $225 Ever: A Simple SQL Injection Win!
   
   https://medium.com/@whoadnan01/easiest-225-ever-a-simple-sql-injection-win-f40c0a6b8e45
+
+- From Newbie to Pro: My Journey to a $3,000 Bug Bounty
+  
+  https://medium.com/bugbountywriteup/from-newbie-to-pro-my-journey-to-a-3-000-bug-bounty-61abe935e3db
