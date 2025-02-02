@@ -56,3 +56,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - Discovering a Critical Vulnerability in Deepseek’s Password Reset Functionality leads to Zero Click Account Takeover
 
   https://medium.com/@teamtea.ye/discovering-a-critical-vulnerability-in-deepseeks-password-reset-functionality-leads-to-zero-click-96c597fe852c
+
+- How I Earned a $500 Bounty by Exploiting a Hidden Vulnerability (Without Even Trying)
+  
+  https://medium.com/@thedevtaskofficial/how-i-earned-a-500-bounty-by-exploiting-a-hidden-vulnerability-without-even-trying-d22229d4d8bd
