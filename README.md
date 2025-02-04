@@ -60,3 +60,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - How I Earned a $500 Bounty by Exploiting a Hidden Vulnerability (Without Even Trying)
   
   https://medium.com/@thedevtaskofficial/how-i-earned-a-500-bounty-by-exploiting-a-hidden-vulnerability-without-even-trying-d22229d4d8bd
+
+- Finding Exposed Sensitive API Keys in JS Files
+
+  https://medium.com/@bitpanic/finding-exposed-sensitive-api-keys-in-js-files-5c129fb1f2c7
