@@ -64,3 +64,11 @@ This repository serves as a collection of insightful and informative blog posts 
 - Finding Exposed Sensitive API Keys in JS Files
 
   https://medium.com/@bitpanic/finding-exposed-sensitive-api-keys-in-js-files-5c129fb1f2c7
+
+- A Security Gap (PII) in a Bus Company
+
+  https://medium.com/meetcyber/a-security-gap-pii-in-a-bus-company-ecfe972875ff
+
+- Exploring a New SQLi Vulnerability: A Ghauri Experience
+  
+  https://medium.com/meetcyber/exploring-a-new-sqli-vulnerability-a-ghauri-experience-541c588dc00d
