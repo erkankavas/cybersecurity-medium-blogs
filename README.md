@@ -72,3 +72,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - Exploring a New SQLi Vulnerability: A Ghauri Experience
   
   https://medium.com/meetcyber/exploring-a-new-sqli-vulnerability-a-ghauri-experience-541c588dc00d
+
+- 1000$ Bounty: OAuth Bypass
+  
+  https://medium.com/cybersecuritywriteups/1000-bounty-oauth-bypass-97c3658729c0
