@@ -76,3 +76,11 @@ This repository serves as a collection of insightful and informative blog posts 
 - 1000$ Bounty: OAuth Bypass
   
   https://medium.com/cybersecuritywriteups/1000-bounty-oauth-bypass-97c3658729c0
+
+- Automating Ghauri for SQLi with Bash Script
+
+  https://medium.com/meetcyber/automating-ghauri-for-sqli-with-bash-script-6ce8fb62c367
+
+- The Importance of Proxy Usage in Bug Hunting
+
+  https://medium.com/meetcyber/the-importance-of-proxy-usage-in-bug-hunting-9896618da7fc
