@@ -84,3 +84,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - The Importance of Proxy Usage in Bug Hunting
 
   https://medium.com/meetcyber/the-importance-of-proxy-usage-in-bug-hunting-9896618da7fc
+
+- Running DeepSeek Locally on macOS with Ollama
+
+  https://medium.com/meetcyber/running-deepseek-locally-on-macos-with-ollama-cd8cd5d6dfce
