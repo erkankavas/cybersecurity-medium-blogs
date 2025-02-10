@@ -96,3 +96,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - Mobile Pentesting with Frida: A Beginner’s Guide
 
   https://medium.com/meetcyber/mobile-pentesting-with-frida-a-beginners-guide-996411fa0202
+
+- User Interface Says No, Backend Says Yes
+
+  https://medium.com/@som3a/user-interface-says-no-backend-says-yes-story-of-bypassing-email-verification-b469f20a141f
