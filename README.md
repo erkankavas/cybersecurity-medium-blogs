@@ -108,3 +108,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - How I Found Multiple SQL Injections in 5 Minutes in Bug Bounty
 
   https://medium.com/bugbountywriteup/how-i-found-multiple-sql-injections-in-5-minutes-in-bug-bounty-40155964c498
+
+- How I Found XSS Using ChatGPT
+
+  https://medium.com/@kumawatabhijeet2002/500-how-i-found-xss-using-chatgpt-ec55792e35bb
