@@ -116,3 +116,8 @@ This repository serves as a collection of insightful and informative blog posts 
 - Finding CSRF Vulnerabilities!
 
   https://medium.com/@kumawatabhijeet2002/earn-by-finding-csrf-vulnerabilities-638f876918cf
+
+- How I got a Stored XSS by searching through JS files?
+
+  https://medium.com/@oXnoOneXo/how-i-got-a-stored-xss-by-searching-through-js-files-fdfe2490668b
+   
