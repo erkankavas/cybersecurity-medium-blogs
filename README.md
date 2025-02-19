@@ -120,4 +120,8 @@ This repository serves as a collection of insightful and informative blog posts 
 - How I got a Stored XSS by searching through JS files?
 
   https://medium.com/@oXnoOneXo/how-i-got-a-stored-xss-by-searching-through-js-files-fdfe2490668b
+
+- Turning XSS into Account Takeover
+
+  https://medium.com/@HackerNasr/turning-xss-into-account-takeover-ato-how-to-level-up-your-exploit-16126c271476
    
