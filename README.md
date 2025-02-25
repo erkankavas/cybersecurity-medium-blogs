@@ -140,4 +140,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - How I Discovered a Critical PII on the main domain via Cookie Manipulation
 
   https://medium.com/@hhack4737/how-i-discovered-a-critical-pii-on-the-main-domain-via-cookie-manipulation-588a3f79710d
-   
+
+- Discovered a Unique Email Verification Bypass
+  
+  https://medium.com/@mo9khu93r/discovered-a-unique-email-verification-bypass-47bb1e955a13
