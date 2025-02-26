@@ -141,6 +141,10 @@ This repository serves as a collection of insightful and informative blog posts 
 
   https://medium.com/@hhack4737/how-i-discovered-a-critical-pii-on-the-main-domain-via-cookie-manipulation-588a3f79710d
 
+- Hijacking Sessions with IDOR and XSS— @bxmbn
+
+  https://medium.com/@bxmbn/hijacking-sessions-with-idor-and-xss-bxmbn-396f99761a85
+
 - Discovered a Unique Email Verification Bypass
   
   https://medium.com/@mo9khu93r/discovered-a-unique-email-verification-bypass-47bb1e955a13
