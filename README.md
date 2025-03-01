@@ -156,3 +156,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - Extended Guide to Installing DeepSeek AI on Ubuntu
 
   https://medium.com/meetcyber/extended-guide-to-installing-deepseek-ai-on-ubuntu-bce1529de75c
+
+- The Forgotten Google Services: Google Alerts
+
+  https://medium.com/pndsec/the-forgotten-google-services-google-alerts-74502ba9c963
