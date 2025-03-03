@@ -164,3 +164,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - The Power of OSINT: Tracking Torrent Activity with Python
 
   https://medium.com/meetcyber/the-power-of-osint-tracking-torrent-activity-with-python-a3246f5217e3
+
+- Best VPS for Bug Bounty & Pentesting
+  
+  https://medium.com/meetcyber/best-vps-for-bug-bounty-pentesting-2b556c375f28
