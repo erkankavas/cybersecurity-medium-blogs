@@ -168,3 +168,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - Best VPS for Bug Bounty & Pentesting
   
   https://medium.com/meetcyber/best-vps-for-bug-bounty-pentesting-2b556c375f28
+
+- Admin Account Takeover via Weird Password Reset Functionality
+
+  https://medium.com/@danielbelay/day-20-admin-account-takeover-via-weird-password-reset-functionality-33afb15fa4c0
