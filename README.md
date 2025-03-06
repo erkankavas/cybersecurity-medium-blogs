@@ -172,3 +172,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - Admin Account Takeover via Weird Password Reset Functionality
 
   https://medium.com/@danielbelay/day-20-admin-account-takeover-via-weird-password-reset-functionality-33afb15fa4c0
+
+- How I found two api vulnerabilities by analyzing JS source code
+
+  https://medium.com/@mohammed0x04/how-i-found-two-api-vulnerabilities-using-website-source-code-6c4b0dc54d6f
