@@ -200,3 +200,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - How to find & access Admin Panel by digging into JS files…
 
   https://medium.com/@ratnadip1998/how-to-find-access-admin-panel-by-digging-into-js-files-282d89391a2d
+
+- How to find & access Admin Panel by digging into JS files
+
+  https://medium.com/@ratnadip1998/how-to-find-access-admin-panel-by-digging-into-js-files-282d89391a2d
