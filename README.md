@@ -209,6 +209,10 @@ This repository serves as a collection of insightful and informative blog posts 
 
   https://medium.com/@dishantsingh989/how-interesting-2fa-bypass-through-browser-feature-lead-me-to-critical-vulnerability-18f9c72a8f8d
 
+- How I Found a Bug in Minutes
+
+  https://medium.com/@strangerwhite/how-i-found-a-bug-in-minutes-no-tools-just-mindful-approach-to-testing-0dd034ff8ab9
+
 - How I Found an IDOR Vulnerability – A Responsible Disclosure Story
 
   https://medium.com/@vickyrohith70/how-i-found-an-idor-vulnerability-a-responsible-disclosure-story-def2885bbe0c
