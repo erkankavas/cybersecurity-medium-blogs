@@ -216,3 +216,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - How I Found an IDOR Vulnerability – A Responsible Disclosure Story
 
   https://medium.com/@vickyrohith70/how-i-found-an-idor-vulnerability-a-responsible-disclosure-story-def2885bbe0c
+
+- IDOR Unlocked: Accessing Unauthorized Data with a Simple Tweak!
+
+  https://medium.com/@dharineeshj2/idor-unlocked-accessing-unauthorized-data-with-a-simple-tweak-a6a5a01a341f
