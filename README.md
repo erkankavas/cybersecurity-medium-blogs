@@ -224,3 +224,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - Advanced Chmod Usage
   
   https://medium.com/meetcyber/advanced-chmod-usage-46fad41e3330
+
+- Can You Find a $4,500 Bug in Google Slides in Under 3 Hours
+
+  https://medium.com/@ibtissamhammadi/can-you-find-a-4-500-bug-in-google-slides-in-under-3-hours-69e9113ccfd3
