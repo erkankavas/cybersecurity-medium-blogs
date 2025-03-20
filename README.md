@@ -228,3 +228,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - Can You Find a $4,500 Bug in Google Slides in Under 3 Hours
 
   https://medium.com/@ibtissamhammadi/can-you-find-a-4-500-bug-in-google-slides-in-under-3-hours-69e9113ccfd3
+
+- Basic Linux Commands
+
+  https://medium.com/pndsec/basic-linux-commands-7c22973c9388
