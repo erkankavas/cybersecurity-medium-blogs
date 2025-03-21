@@ -229,6 +229,10 @@ This repository serves as a collection of insightful and informative blog posts 
 
   https://medium.com/@ibtissamhammadi/can-you-find-a-4-500-bug-in-google-slides-in-under-3-hours-69e9113ccfd3
 
+- Mastering 403 Forbidden Bypass Techniques
+
+  https://medium.com/@Abhijeet_kumawat_/part-2-mastering-403-forbidden-bypass-techniques-707e7880fa22
+
 - Basic Linux Commands
 
   https://medium.com/pndsec/basic-linux-commands-7c22973c9388
