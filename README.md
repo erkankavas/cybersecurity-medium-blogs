@@ -236,3 +236,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - Basic Linux Commands
 
   https://medium.com/pndsec/basic-linux-commands-7c22973c9388
+
+- Exceptional $$$$Account Takeover
+
+  https://medium.com/@Tanvir0x1/exceptional-account-takeover-money-theft-via-idor-a76638ecd616
