@@ -240,3 +240,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - Exceptional $$$$Account Takeover
 
   https://medium.com/@Tanvir0x1/exceptional-account-takeover-money-theft-via-idor-a76638ecd616
+
+- Bug Bounty: Hunting Open Redirect Vulnerabilities
+
+  https://medium.com/h7w/bug-bounty-hunting-open-redirect-vulnerabilities-for-46940d0cd98c
