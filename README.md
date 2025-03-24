@@ -244,3 +244,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - Bug Bounty: Hunting Open Redirect Vulnerabilities
 
   https://medium.com/h7w/bug-bounty-hunting-open-redirect-vulnerabilities-for-46940d0cd98c
+
+- SQL injection with filter bypass via XML encoding
+  
+  https://medium.com/@codingbolt.in/sql-injection-with-filter-bypass-via-xml-encoding-754808d7d29a
