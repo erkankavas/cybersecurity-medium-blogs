@@ -248,3 +248,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - SQL injection with filter bypass via XML encoding
   
   https://medium.com/@codingbolt.in/sql-injection-with-filter-bypass-via-xml-encoding-754808d7d29a
+
+- Exploiting Blind XSS in a Signup Page:
+
+  https://medium.com/@MianHammadx0root/exploiting-blind-xss-in-a-signup-page-admin-panel-takeover-and-real-world-impact-3000-p2-private-110205e3674b
