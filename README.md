@@ -256,3 +256,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - Top 10 Vulnerabilities Every Bug Hunter Should Exploit in 2025
 
   https://medium.com/@vipulsonule71/top-10-vulnerabilities-every-bug-hunter-should-exploit-in-2025-df28045f6fca
+
+- How I Made $1,000 in a Day Exposing a Critical Vulnerability
+  
+  https://medium.com/@ibtissamhammadi/how-i-made-1-000-in-a-day-exposing-a-critical-vulnerability-3742ac0e58df
