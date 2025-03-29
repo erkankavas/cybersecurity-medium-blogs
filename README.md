@@ -260,3 +260,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - How I Made $1,000 in a Day Exposing a Critical Vulnerability
   
   https://medium.com/@ibtissamhammadi/how-i-made-1-000-in-a-day-exposing-a-critical-vulnerability-3742ac0e58df
+
+- Bug Hunting & Automation
+  
+  https://medium.com/h7w/bug-hunting-automation-a284c3ff1967
