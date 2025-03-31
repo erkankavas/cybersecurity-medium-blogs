@@ -268,3 +268,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - How to Find Hidden API Endpoints That Lead to Critical Bugs
 
   https://medium.com/@vipulsonule71/how-to-find-hidden-api-endpoints-that-lead-to-critical-bugs-054310629e64
+
+- 2FA & MFA Hacks: Bypass OTP Like a Pro
+
+  https://medium.com/@verylazytech/2fa-mfa-hacks-bypass-otp-like-a-pro-verylazytech-7eb9f8c4f5c1
