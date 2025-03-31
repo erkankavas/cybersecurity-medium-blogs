@@ -264,3 +264,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - Bug Hunting & Automation
   
   https://medium.com/h7w/bug-hunting-automation-a284c3ff1967
+
+- How to Find Hidden API Endpoints That Lead to Critical Bugs
+
+  https://medium.com/@vipulsonule71/how-to-find-hidden-api-endpoints-that-lead-to-critical-bugs-054310629e64
