@@ -272,3 +272,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - 2FA & MFA Hacks: Bypass OTP Like a Pro
 
   https://medium.com/@verylazytech/2fa-mfa-hacks-bypass-otp-like-a-pro-verylazytech-7eb9f8c4f5c1
+
+- Prime Target & The Future of RSA
+
+  https://medium.com/meetcyber/prime-target-the-future-of-rsa-6e6bac4ad25b
