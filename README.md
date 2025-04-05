@@ -276,3 +276,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - Prime Target & The Future of RSA
 
   https://medium.com/meetcyber/prime-target-the-future-of-rsa-6e6bac4ad25b
+
+- Account Takeover using SSO Logins
+
+  https://medium.com/@rikeshbaniya/account-takeover-using-sso-logins-fa35f28a358b
