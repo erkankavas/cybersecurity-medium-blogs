@@ -280,3 +280,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - Account Takeover using SSO Logins
 
   https://medium.com/@rikeshbaniya/account-takeover-using-sso-logins-fa35f28a358b
+
+- DOM XSS Custom Nuclei Template
+
+  https://medium.com/meetcyber/dom-xss-custom-nuclei-template-189461186769
