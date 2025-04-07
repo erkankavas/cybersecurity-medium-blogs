@@ -284,3 +284,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - DOM XSS Custom Nuclei Template
 
   https://medium.com/meetcyber/dom-xss-custom-nuclei-template-189461186769
+
+- SSRF to RCE: How I Turned a Small Bug Into a Big Paycheck
+  
+  https://medium.com/bugbountywriteup/%EF%B8%8F-ssrf-to-rce-how-i-turned-a-small-bug-into-a-big-paycheck-574b6b889d2a
