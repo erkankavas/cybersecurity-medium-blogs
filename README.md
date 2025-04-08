@@ -288,3 +288,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - SSRF to RCE: How I Turned a Small Bug Into a Big Paycheck
   
   https://medium.com/bugbountywriteup/%EF%B8%8F-ssrf-to-rce-how-i-turned-a-small-bug-into-a-big-paycheck-574b6b889d2a
+
+- DuckDuckGo Dorking for Bug Hunters & Pentesters
+
+  https://medium.com/developersglobal/duckduckgo-dorking-for-bug-hunters-pentesters-7c2b9b762ab9
