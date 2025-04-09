@@ -292,3 +292,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - DuckDuckGo Dorking for Bug Hunters & Pentesters
 
   https://medium.com/developersglobal/duckduckgo-dorking-for-bug-hunters-pentesters-7c2b9b762ab9
+
+- From Recon to RCE
+  
+  https://medium.com/bugbountywriteup/from-recon-to-rce-how-ai-and-a-cup-of-boost-helped-me-turn-sqli-into-a-command-injection-jackpot-1f62dc829956
