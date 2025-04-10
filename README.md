@@ -296,3 +296,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - From Recon to RCE
   
   https://medium.com/bugbountywriteup/from-recon-to-rce-how-ai-and-a-cup-of-boost-helped-me-turn-sqli-into-a-command-injection-jackpot-1f62dc829956
+
+- Bug Bounty Edition 2025: Uncommon Headers That Bypass Everything
+
+  https://medium.com/@gasmask/uncommon-headers-that-bypass-everything-almost-bug-bounty-edition-2025-9d2ea65b2076
