@@ -300,3 +300,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - Bug Bounty Edition 2025: Uncommon Headers That Bypass Everything
 
   https://medium.com/@gasmask/uncommon-headers-that-bypass-everything-almost-bug-bounty-edition-2025-9d2ea65b2076
+
+- How I Bypassed View-Only Mode
+
+  https://medium.com/@mahdisalhi0500/how-i-bypassed-view-only-mode-with-a-simple-trick-duplicate-bug-92e1ec91a8d7
