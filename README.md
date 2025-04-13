@@ -304,3 +304,8 @@ This repository serves as a collection of insightful and informative blog posts 
 - How I Bypassed View-Only Mode
 
   https://medium.com/@mahdisalhi0500/how-i-bypassed-view-only-mode-with-a-simple-trick-duplicate-bug-92e1ec91a8d7
+
+- 1 Click ATO on a public Bugcrowd Program
+
+  https://medium.com/@68abdelrahmanmohamed/1-click-ato-on-a-public-bugcrowd-program-94ef037d0d50
+  
