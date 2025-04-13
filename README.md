@@ -305,6 +305,10 @@ This repository serves as a collection of insightful and informative blog posts 
 
   https://medium.com/@mahdisalhi0500/how-i-bypassed-view-only-mode-with-a-simple-trick-duplicate-bug-92e1ec91a8d7
 
+- CORS Misconfigurations: How Poor Policies Open Doors to Exploits
+
+  https://medium.com/meetcyber/cors-misconfigurations-how-poor-policies-open-doors-to-exploits-ef0af71e0302
+
 - 1 Click ATO on a public Bugcrowd Program
 
   https://medium.com/@68abdelrahmanmohamed/1-click-ato-on-a-public-bugcrowd-program-94ef037d0d50
