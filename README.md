@@ -312,4 +312,8 @@ This repository serves as a collection of insightful and informative blog posts 
 - 1 Click ATO on a public Bugcrowd Program
 
   https://medium.com/@68abdelrahmanmohamed/1-click-ato-on-a-public-bugcrowd-program-94ef037d0d50
+
+- SQL Injection Leads to $$$ Bounty
+
+  https://medium.com/@arrheniuspaelongan09/sql-injection-leads-to-bounty-how-i-found-a-critical-bug-cbacc35a2f19
   
