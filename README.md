@@ -316,4 +316,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - SQL Injection Leads to $$$ Bounty
 
   https://medium.com/@arrheniuspaelongan09/sql-injection-leads-to-bounty-how-i-found-a-critical-bug-cbacc35a2f19
-  
+
+- The Hacker’s Library: Uncovering the Best Books
+
+  https://medium.com/@iabhipathak/the-hackers-library-uncovering-the-best-books-bd5dce11e7a6
