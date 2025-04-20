@@ -324,3 +324,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - ARP Spoofing Lab Using Docker Compose and Wireshark
 
   https://medium.com/meetcyber/how-to-build-an-arp-spoofing-lab-using-docker-compose-and-wireshark-652cc9fbb01a
+
+- Google just Punished GeekforGeeks
+
+  https://medium.com/write-a-catalyst/google-just-punished-geekforgeeks-528ff2d3edad
