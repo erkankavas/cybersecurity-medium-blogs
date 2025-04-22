@@ -328,3 +328,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - Google just Punished GeekforGeeks
 
   https://medium.com/write-a-catalyst/google-just-punished-geekforgeeks-528ff2d3edad
+
+- Hours of Recon, One Vulnerable Parameter
+
+  https://medium.com/the-first-digit/hours-of-recon-one-vulnerable-parameter-and-boom-sql-injection-found-e7f2bb74d423
