@@ -340,3 +340,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - Non-English Dorks to Find Bug Bounty & VDP Programs
 
   https://medium.com/cybersecuritywriteups/non-english-dorks-to-find-bug-bounty-vdp-programs-d799f0a5161c
+
+- FOFA Recon for Hidden HackerOne & Bugcrowd Programs
+
+  https://medium.com/meetcyber/fofa-recon-for-hidden-hackerone-bugcrowd-programs-e285610bf8a5
