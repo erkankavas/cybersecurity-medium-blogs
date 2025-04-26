@@ -344,3 +344,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - FOFA Recon for Hidden HackerOne & Bugcrowd Programs
 
   https://medium.com/meetcyber/fofa-recon-for-hidden-hackerone-bugcrowd-programs-e285610bf8a5
+
+- Secret Sauce in Robots.txt
+  
+  https://medium.com/@iski/secret-sauce-in-robots-txt-how-i-found-hidden-admin-panels-and-debug-urls-b7e8a11ea36f
