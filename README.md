@@ -348,3 +348,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - Secret Sauce in Robots.txt
   
   https://medium.com/@iski/secret-sauce-in-robots-txt-how-i-found-hidden-admin-panels-and-debug-urls-b7e8a11ea36f
+
+- Bypassed the Invite Flow, Gained Admin Access
+
+  https://medium.com/@yassentaalab51/bypassed-the-invite-flow-gained-admin-access-d37347d57468
