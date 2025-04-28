@@ -356,3 +356,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - Path Traversal Attack: How I Accessed Admin Secrets
 
   https://medium.com/bugbountywriteup/path-traversal-attack-how-i-accessed-admin-secrets-fa5de1865031
+
+- Choosing the Right Naming Convention
+
+  https://medium.com/meetcyber/choosing-the-right-naming-convention-780b2b1213ae
