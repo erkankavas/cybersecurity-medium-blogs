@@ -360,3 +360,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - Choosing the Right Naming Convention
 
   https://medium.com/meetcyber/choosing-the-right-naming-convention-780b2b1213ae
+
+- Not Just a Ping: How SSRF Opened the Gateway to Internal Secrets
+  
+  https://medium.com/@iski/not-just-a-ping-how-ssrf-opened-the-gateway-to-internal-secrets-d18eeccd4745
