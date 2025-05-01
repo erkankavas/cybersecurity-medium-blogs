@@ -364,3 +364,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - Not Just a Ping: How SSRF Opened the Gateway to Internal Secrets
   
   https://medium.com/@iski/not-just-a-ping-how-ssrf-opened-the-gateway-to-internal-secrets-d18eeccd4745
+
+- Understanding Supply Chain Attacks
+
+  https://medium.com/meetcyber/understanding-supply-chain-attacks-19f97e8116cb
