@@ -372,3 +372,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - AI and Machine Learning : Double Edged Sword
 
   https://medium.com/meetcyber/ai-and-machine-learning-double-edged-sword-093ffee1aa62
+
+- Forbidden Knowledge: Banned Cybersecurity Reads
+
+  https://medium.com/the-first-digit/forbidden-knowledge-banned-cybersecurity-reads-a4bdba77f26e
