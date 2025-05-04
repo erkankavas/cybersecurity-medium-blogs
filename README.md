@@ -380,3 +380,11 @@ This repository serves as a collection of insightful and informative blog posts 
 - Bugged by Backup Files: How .zip and .bak
 
   https://medium.com/bugbountywriteup/bugged-by-backup-files-how-zip-and-bak-gave-me-the-source-code-872a376b0b2b
+
+- The Evolution of macOS
+
+  https://medium.com/meetcyber/the-evolution-of-macos-142fad535449
+
+- Understanding the Core Concepts of OOP
+
+  https://medium.com/meetcyber/understanding-the-core-concepts-of-oop-0b258fbe86e4
