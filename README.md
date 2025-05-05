@@ -388,3 +388,8 @@ This repository serves as a collection of insightful and informative blog posts 
 - Understanding the Core Concepts of OOP
 
   https://medium.com/meetcyber/understanding-the-core-concepts-of-oop-0b258fbe86e4
+
+-  Bypassing Regex Validations to Achieve RCE
+
+  https://medium.com/bugbountywriteup/bypassing-regex-validations-to-achieve-rce-a-wild-bug-story-4c523f69b9f8
+  
