@@ -392,4 +392,7 @@ This repository serves as a collection of insightful and informative blog posts 
 -  Bypassing Regex Validations to Achieve RCE
 
   https://medium.com/bugbountywriteup/bypassing-regex-validations-to-achieve-rce-a-wild-bug-story-4c523f69b9f8
-  
+
+- The Hidden Dangers of Misconfigured Cloud Storage
+
+  https://medium.com/meetcyber/the-hidden-dangers-of-misconfigured-cloud-storage-c9debc08f506
