@@ -396,3 +396,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - The Hidden Dangers of Misconfigured Cloud Storage
 
   https://medium.com/meetcyber/the-hidden-dangers-of-misconfigured-cloud-storage-c9debc08f506
+
+- Essential Programming Languages with Ecosystems
+
+https://medium.com/meetcyber/essential-programming-languages-with-ecosystems-cec8f61a1139
