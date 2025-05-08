@@ -399,4 +399,8 @@ This repository serves as a collection of insightful and informative blog posts 
 
 - Essential Programming Languages with Ecosystems
 
-https://medium.com/meetcyber/essential-programming-languages-with-ecosystems-cec8f61a1139
+  https://medium.com/meetcyber/essential-programming-languages-with-ecosystems-cec8f61a1139
+
+- Unsafe Eval = Unlimited Control: How a JS Sink Let Me Run Anything
+
+  https://medium.com/@iski/%EF%B8%8F-unsafe-eval-unlimited-control-how-a-js-sink-let-me-run-anything-60794929a295
