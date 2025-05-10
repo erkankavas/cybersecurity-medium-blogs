@@ -404,3 +404,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - Unsafe Eval = Unlimited Control: How a JS Sink Let Me Run Anything
 
   https://medium.com/@iski/%EF%B8%8F-unsafe-eval-unlimited-control-how-a-js-sink-let-me-run-anything-60794929a295
+
+- Found a Critical Vulnerability in Snapchat
+
+  https://medium.com/meetcyber/15-000-bounty-found-a-critical-vulnerability-in-snapchat-377176a0f0eb
