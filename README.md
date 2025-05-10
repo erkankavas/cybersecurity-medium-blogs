@@ -408,3 +408,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - Found a Critical Vulnerability in Snapchat
 
   https://medium.com/meetcyber/15-000-bounty-found-a-critical-vulnerability-in-snapchat-377176a0f0eb
+
+- A list of tools that will help to find XSS(cross-site scripting ) vulnerability.
+
+  https://medium.com/@loyalonlytoday/a-list-of-tools-that-will-help-to-find-xss-cross-site-scripting-vulnerability-037dfe279f51
