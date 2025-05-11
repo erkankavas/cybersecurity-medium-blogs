@@ -412,3 +412,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - A list of tools that will help to find XSS(cross-site scripting ) vulnerability.
 
   https://medium.com/@loyalonlytoday/a-list-of-tools-that-will-help-to-find-xss-cross-site-scripting-vulnerability-037dfe279f51
+
+- The Hidden Language: Exploiting GraphQL for Unauthorized Data Dump
+
+  https://medium.com/bugbountywriteup/the-hidden-language-exploiting-graphql-for-unauthorized-data-dump-8be49f30a005
