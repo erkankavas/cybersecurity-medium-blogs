@@ -416,3 +416,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - The Hidden Language: Exploiting GraphQL for Unauthorized Data Dump
 
   https://medium.com/bugbountywriteup/the-hidden-language-exploiting-graphql-for-unauthorized-data-dump-8be49f30a005
+
+- SSRF via PDF Generator? Yes, and It Led to EC2 Metadata Access
+  
+  https://medium.com/bugbountywriteup/ssrf-via-pdf-generator-yes-and-it-led-to-ec2-metadata-access-39b8e5b41840
