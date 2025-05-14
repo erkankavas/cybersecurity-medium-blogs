@@ -420,3 +420,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - SSRF via PDF Generator? Yes, and It Led to EC2 Metadata Access
   
   https://medium.com/bugbountywriteup/ssrf-via-pdf-generator-yes-and-it-led-to-ec2-metadata-access-39b8e5b41840
+
+- A tool that will find secrets, endpoints, and API keys from a list of URLs
+  
+  https://medium.com/@loyalonlytoday/a-tool-that-will-find-secrets-endpoints-and-api-keys-from-a-list-of-urls-bug-bounty-hunting-ccaec4babfe1
