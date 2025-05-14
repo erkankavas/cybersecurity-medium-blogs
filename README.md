@@ -424,3 +424,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - A tool that will find secrets, endpoints, and API keys from a list of URLs
   
   https://medium.com/@loyalonlytoday/a-tool-that-will-find-secrets-endpoints-and-api-keys-from-a-list-of-urls-bug-bounty-hunting-ccaec4babfe1
+
+- Filter Failure: From HTML Injection to Full-Blown XSS via Rich Text Editors
+
+   https://medium.com/@iski/title-filter-failure-from-html-injection-to-full-blown-xss-via-rich-text-editors-af6809e248b4
