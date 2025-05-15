@@ -427,4 +427,8 @@ This repository serves as a collection of insightful and informative blog posts 
 
 - Filter Failure: From HTML Injection to Full-Blown XSS via Rich Text Editors
 
-   https://medium.com/@iski/title-filter-failure-from-html-injection-to-full-blown-xss-via-rich-text-editors-af6809e248b4
+  https://medium.com/@iski/title-filter-failure-from-html-injection-to-full-blown-xss-via-rich-text-editors-af6809e248b4
+
+- $256 Bounty : XSS via Web Cache Poisoning in Discourse
+
+  https://infosecwriteups.com/256-bounty-xss-via-web-cache-poisoning-in-discourse-594d5961555e
