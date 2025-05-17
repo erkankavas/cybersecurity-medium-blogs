@@ -436,3 +436,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - POC — Remote and unauthenticated attacker can send crafted HTTP requests to execute arbitrary code
 
   https://medium.com/@verylazytech/poc-remote-and-unauthenticated-attacker-can-send-crafted-http-requests-to-execute-arbitrary-code-4b591d45ff4f
+
+- My First Bug Bounty: How I Earned $1,000
+
+  https://medium.com/@kailasv678/my-first-bug-bounty-how-i-earned-1-000-4ae2bf36039d
