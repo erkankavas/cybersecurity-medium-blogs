@@ -440,3 +440,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - My First Bug Bounty: How I Earned $1,000
 
   https://medium.com/@kailasv678/my-first-bug-bounty-how-i-earned-1-000-4ae2bf36039d
+
+- All about XSS — Cross site scripting!
+
+  https://medium.com/@bug_vs_me/all-about-xss-cross-site-scripting-1bf764a39159
