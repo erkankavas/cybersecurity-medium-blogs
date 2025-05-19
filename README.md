@@ -444,3 +444,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - All about XSS — Cross site scripting!
 
   https://medium.com/@bug_vs_me/all-about-xss-cross-site-scripting-1bf764a39159
+
+- Think You’re Safe? Think Again: Cybersecurity Myths
+
+  https://medium.com/meetcyber/think-youre-safe-think-again-cybersecurity-myths-69090b7e7afa
