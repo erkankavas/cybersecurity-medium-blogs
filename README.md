@@ -448,3 +448,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - Think You’re Safe? Think Again: Cybersecurity Myths
 
   https://medium.com/meetcyber/think-youre-safe-think-again-cybersecurity-myths-69090b7e7afa
+
+- Mastering SQL Injection Recon: Step-by-Step Guide for Bug Bounty Hunters
+
+  https://medium.com/bugbountywriteup/mastering-sql-injection-recon-step-by-step-guide-for-bug-bounty-hunters-9f493fb058dd
