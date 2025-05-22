@@ -456,3 +456,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - 404 to Root: How a Forgotten Subdomain Led to Server Takeover
 
   https://medium.com/bugbountywriteup/404-to-root-how-a-forgotten-subdomain-led-to-server-takeover-%EF%B8%8F-d60e65fdbc18
+
+- The $2,000 SQLi Story: Hours, Payloads, and Pure Stubbornness
+
+  https://medium.com/meetcyber/the-2-000-sqli-story-hours-payloads-and-pure-stubbornness-05eab4c7b968
