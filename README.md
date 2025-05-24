@@ -464,3 +464,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - I Gave Myself 60 Minutes to Find a Bug 
 
   https://medium.com/@Abhijeet_kumawat_/i-gave-myself-60-minutes-to-find-a-bug-this-is-what-happened-e5fa76563a33
+
+- WayBackLister : Innovative Directory Bruteforcing Technique
+
+  https://medium.com/system-weakness/waybacklister-innovative-directory-bruteforcing-technique-43535da40bc4
