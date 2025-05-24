@@ -460,3 +460,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - The $2,000 SQLi Story: Hours, Payloads, and Pure Stubbornness
 
   https://medium.com/meetcyber/the-2-000-sqli-story-hours-payloads-and-pure-stubbornness-05eab4c7b968
+
+- I Gave Myself 60 Minutes to Find a Bug 
+
+  https://medium.com/@Abhijeet_kumawat_/i-gave-myself-60-minutes-to-find-a-bug-this-is-what-happened-e5fa76563a33
