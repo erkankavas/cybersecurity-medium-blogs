@@ -468,3 +468,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - WayBackLister : Innovative Directory Bruteforcing Technique
 
   https://medium.com/system-weakness/waybacklister-innovative-directory-bruteforcing-technique-43535da40bc4
+
+- How Blind XSS in Email Notifications Gave Me Root Alerts
+
+  https://medium.com/@iski/silent-but-deadly-how-blind-xss-in-email-notifications-gave-me-root-alerts-e7d21972cdfc
