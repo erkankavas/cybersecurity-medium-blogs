@@ -476,3 +476,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - Exploiting Security Misconfiguration to Gain Full Account Takeover
 
   https://medium.com/@vashuvats/exploiting-security-misconfiguration-to-gain-full-account-takeover-eb7a3da01f14
+
+- The Image That Spoke JavaScript
+
+  https://medium.com/@commanak46/the-image-that-spoke-javascript-bdbd368921e4
