@@ -472,3 +472,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - How Blind XSS in Email Notifications Gave Me Root Alerts
 
   https://medium.com/@iski/silent-but-deadly-how-blind-xss-in-email-notifications-gave-me-root-alerts-e7d21972cdfc
+
+- Exploiting Security Misconfiguration to Gain Full Account Takeover
+
+  https://medium.com/@vashuvats/exploiting-security-misconfiguration-to-gain-full-account-takeover-eb7a3da01f14
