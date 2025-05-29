@@ -480,3 +480,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - The Image That Spoke JavaScript
 
   https://medium.com/@commanak46/the-image-that-spoke-javascript-bdbd368921e4
+
+- Wordpress Vulnerability Research
+
+  https://medium.com/the-first-digit/wordpress-vulnerability-research-a2b3043f801d
