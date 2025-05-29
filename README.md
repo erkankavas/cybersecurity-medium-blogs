@@ -484,3 +484,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - Wordpress Vulnerability Research
 
   https://medium.com/the-first-digit/wordpress-vulnerability-research-a2b3043f801d
+
+- A Hidden Backdoor: Bypassing reCAPTCHA on the Sign-up Page
+  
+  https://medium.com/@ehteshamulhaq198/a-hidden-backdoor-bypassing-recaptcha-on-the-sign-up-page-2b5b3c18257f
