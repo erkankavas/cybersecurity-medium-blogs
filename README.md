@@ -492,3 +492,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - Hidden Tokens, Open Wallets: How I Found Payment API Keys in Production JavaScript
 
   https://medium.com/@iski/hidden-tokens-open-wallets-how-i-found-payment-api-keys-in-production-javascript-7810b3113e04
+
+- Business Logic Flaw in a Rating System and Earned €150
+  
+  https://medium.com/meetcyber/business-logic-flaw-in-a-rating-system-and-earned-150-a992ceb571a1
