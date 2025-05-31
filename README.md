@@ -488,3 +488,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - A Hidden Backdoor: Bypassing reCAPTCHA on the Sign-up Page
   
   https://medium.com/@ehteshamulhaq198/a-hidden-backdoor-bypassing-recaptcha-on-the-sign-up-page-2b5b3c18257f
+
+- Hidden Tokens, Open Wallets: How I Found Payment API Keys in Production JavaScript
+
+  https://medium.com/@iski/hidden-tokens-open-wallets-how-i-found-payment-api-keys-in-production-javascript-7810b3113e04
