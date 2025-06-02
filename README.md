@@ -496,3 +496,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - Business Logic Flaw in a Rating System and Earned €150
   
   https://medium.com/meetcyber/business-logic-flaw-in-a-rating-system-and-earned-150-a992ceb571a1
+
+- Logged in Without Logging In: A $xxx Improper Authentication Flaw
+
+  https://medium.com/h7w/logged-in-without-logging-in-a-xxx-improper-authentication-flaw-in-tvas-portal-4c54c87bd512
