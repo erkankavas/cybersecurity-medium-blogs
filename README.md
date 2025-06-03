@@ -500,3 +500,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - Logged in Without Logging In: A $xxx Improper Authentication Flaw
 
   https://medium.com/h7w/logged-in-without-logging-in-a-xxx-improper-authentication-flaw-in-tvas-portal-4c54c87bd512
+
+- Open Redirect + Referer Header = $3,000 Access Token Leak
+
+  https://medium.com/the-first-digit/open-redirect-referer-header-3-000-access-token-leak-dd45ba4bdb0c
