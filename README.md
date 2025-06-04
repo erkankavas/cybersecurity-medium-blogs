@@ -508,3 +508,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - How Weak Tokens Let Me Become Admin with Just a Text Editor
 
   https://medium.com/bugbountywriteup/jwt-the-hell-how-weak-tokens-let-me-become-admin-with-just-a-text-editor-%EF%B8%8F-e73bcd66af0d
+
+- Simple 2FA Bypass Techniques for Beginners
+
+  https://medium.com/the-first-digit/simple-2fa-bypass-techniques-for-beginners-edec48befa23
