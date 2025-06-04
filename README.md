@@ -504,3 +504,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - Open Redirect + Referer Header = $3,000 Access Token Leak
 
   https://medium.com/the-first-digit/open-redirect-referer-header-3-000-access-token-leak-dd45ba4bdb0c
+
+- How Weak Tokens Let Me Become Admin with Just a Text Editor
+
+  https://medium.com/bugbountywriteup/jwt-the-hell-how-weak-tokens-let-me-become-admin-with-just-a-text-editor-%EF%B8%8F-e73bcd66af0d
