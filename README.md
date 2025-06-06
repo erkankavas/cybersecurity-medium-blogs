@@ -512,3 +512,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - Simple 2FA Bypass Techniques for Beginners
 
   https://medium.com/the-first-digit/simple-2fa-bypass-techniques-for-beginners-edec48befa23
+
+- When Open Source Isn’t: How OpenRewrite Lost Its Way
+  
+  https://medium.com/bugbountywriteup/when-open-source-isnt-how-openrewrite-lost-its-way-642053be287d
