@@ -516,3 +516,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - When Open Source Isn’t: How OpenRewrite Lost Its Way
   
   https://medium.com/bugbountywriteup/when-open-source-isnt-how-openrewrite-lost-its-way-642053be287d
+
+- How I Hacked a $7,790 IDOR Flaw in 48 hours
+
+  https://medium.com/@ibtissamhammadi1/ethical-hacker-earning-7-790-in-48-hours-by-finding-an-idor-vulnerability-during-a-bug-bounty-6557ffcd33c9
