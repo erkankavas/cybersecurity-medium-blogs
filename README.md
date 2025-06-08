@@ -520,3 +520,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - How I Hacked a $7,790 IDOR Flaw in 48 hours
 
   https://medium.com/@ibtissamhammadi1/ethical-hacker-earning-7-790-in-48-hours-by-finding-an-idor-vulnerability-during-a-bug-bounty-6557ffcd33c9
+
+- How I Found a Secondary SQL Injection in a Top 3 Gaming Platform
+
+  https://medium.com/@alkaptonurea/how-i-found-a-secondary-sql-injection-in-a-top-3-gaming-platform-abdd4eb461a7
