@@ -524,3 +524,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - How I Found a Secondary SQL Injection in a Top 3 Gaming Platform
 
   https://medium.com/@alkaptonurea/how-i-found-a-secondary-sql-injection-in-a-top-3-gaming-platform-abdd4eb461a7
+
+- I reproduced a $10,000 bug
+
+  https://medium.com/bugbountywriteup/i-reproduced-a-10-000-bug-28466603e45e
