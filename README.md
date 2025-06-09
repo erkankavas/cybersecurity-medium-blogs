@@ -528,3 +528,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - I reproduced a $10,000 bug
 
   https://medium.com/bugbountywriteup/i-reproduced-a-10-000-bug-28466603e45e
+
+- How I Found an $8,427 JS Security Bug in 30 Minutes
+
+  https://medium.com/@ibtissamhammadi1/how-i-found-an-8-427-js-security-bug-in-30-minutes-1c37d97bdae1
