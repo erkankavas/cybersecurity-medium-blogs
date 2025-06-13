@@ -544,3 +544,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - How I Made $4,260 Bypassing a Simple Username Bug
 
   https://medium.com/@ibtissamhammadi1/how-i-made-4-260-bypassing-a-simple-username-bug-d969868025c7
+
+- OSINT Guide Pt 1 :Using Flatpak + Tor for Telegram OSINT
+
+  https://medium.com/@hacktheplanet/osint-guide-pt-1-using-flatpak-tor-for-telegram-osint-73cd66825c2f
