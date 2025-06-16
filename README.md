@@ -552,3 +552,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - The Most Underrated 0-Click Account Takeover Using Punycode IDN Homograph Attacks
 
   https://medium.com/bugbountywriteup/the-most-underrated-0-click-account-takeover-using-punycode-idn-attacks-c0afdb74a3dc
+
+- I Found a $4,200 Bug in 15 Minutes
+
+  https://medium.com/@ibtissamhammadi1/i-found-a-4-200-bug-in-15-minutes-8d1ce968cf6b
