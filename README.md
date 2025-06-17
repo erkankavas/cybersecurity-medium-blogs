@@ -560,3 +560,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - The $500 Facebook Bug That Taught Me the Real Meaning of Respect
 
   https://medium.com/the-first-digit/the-500-facebook-bug-that-taught-me-the-real-meaning-of-respect-383d48be16ae
+
+- I Found 50+ Exploitable Devices in 1 Hour Using Shodan Dorking
+
+  https://medium.com/bugbountywriteup/i-found-50-exploitable-devices-in-1-hour-using-shodan-dorking-49e825ca0f3e
