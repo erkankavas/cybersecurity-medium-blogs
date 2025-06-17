@@ -556,3 +556,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - I Found a $4,200 Bug in 15 Minutes
 
   https://medium.com/@ibtissamhammadi1/i-found-a-4-200-bug-in-15-minutes-8d1ce968cf6b
+
+- The $500 Facebook Bug That Taught Me the Real Meaning of Respect
+
+  https://medium.com/the-first-digit/the-500-facebook-bug-that-taught-me-the-real-meaning-of-respect-383d48be16ae
