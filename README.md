@@ -568,3 +568,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - When Session Fixation Meets Session Confusion: A Case of Cross-User Control
 
   https://medium.com/bugbountywriteup/when-session-fixation-meets-session-confusion-a-case-of-cross-user-control-bb2cd0d478e8
+
+- How I Chained Recon and IDOR to Access 100's of Credit Cards
+
+  https://medium.com/legionhunters/how-i-chained-recon-and-idor-to-access-100s-of-credit-cards-0ca50eb82a74
