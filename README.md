@@ -572,3 +572,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - How I Chained Recon and IDOR to Access 100's of Credit Cards
 
   https://medium.com/legionhunters/how-i-chained-recon-and-idor-to-access-100s-of-credit-cards-0ca50eb82a74
+
+- $1,000-Value Bug: Abusing Cookie-Based Voting to Manipulate Comments at Scale
+
+  https://medium.com/bugbountywriteup/1-000-value-bug-abusing-cookie-based-voting-to-manipulate-comments-at-scale-7e3f3b672ad7
