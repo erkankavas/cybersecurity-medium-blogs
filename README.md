@@ -573,6 +573,10 @@ This repository serves as a collection of insightful and informative blog posts 
 
   https://medium.com/legionhunters/how-i-chained-recon-and-idor-to-access-100s-of-credit-cards-0ca50eb82a74
 
+- How a Simple Bookmark Earned a Two-Digit € Bug Bounty
+
+  https://medium.com/meetcyber/how-a-simple-bookmark-earned-a-two-digit-bug-bounty-0a956537e5e5
+
 - $1,000-Value Bug: Abusing Cookie-Based Voting to Manipulate Comments at Scale
 
   https://medium.com/bugbountywriteup/1-000-value-bug-abusing-cookie-based-voting-to-manipulate-comments-at-scale-7e3f3b672ad7
