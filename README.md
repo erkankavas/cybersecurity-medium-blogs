@@ -588,3 +588,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - Fail2Ban: Lightweight but Powerful Protection
 
   https://medium.com/pndsec/fail2ban-lightweight-but-powerful-protection-79f6bf514756
+
+- SOC Analyst Automation: Scripts Every Analyst Should Be Using
+
+  https://cyberw1ng.medium.com/soc-analyst-automation-scripts-every-analyst-should-be-using-6e310dea6ad5
