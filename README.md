@@ -584,3 +584,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - JavaScript Proxies — The Most Underrated Superpower in JS
   
   https://medium.com/@theNewGenCoder/javascript-proxies-the-most-underrated-superpower-in-js-c907d5deb932
+
+- Fail2Ban: Lightweight but Powerful Protection
+
+  https://medium.com/pndsec/fail2ban-lightweight-but-powerful-protection-79f6bf514756
