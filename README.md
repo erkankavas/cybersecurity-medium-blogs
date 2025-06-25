@@ -592,3 +592,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - SOC Analyst Automation: Scripts Every Analyst Should Be Using
 
   https://cyberw1ng.medium.com/soc-analyst-automation-scripts-every-analyst-should-be-using-6e310dea6ad5
+
+- Best GPTs for Red Team, Blue Team & OSINT in 2025
+
+  https://medium.com/meetcyber/best-gpts-for-red-team-blue-team-osint-in-2025-318cfed30886
