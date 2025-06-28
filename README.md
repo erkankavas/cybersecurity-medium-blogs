@@ -600,3 +600,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - Rate Limit? I Barely Know Her: How I Brute-Forced OTPs Like a Gentleman
   
   https://medium.com/bugbountywriteup/rate-limit-i-barely-know-her-how-i-brute-forced-otps-like-a-gentleman-6f1235c559cc
+
+- HTTP Parameter Pollution: The Dirty Little Secret That Gave Me Full Backend Access
+  
+  https://medium.com/bugbountywriteup/http-parameter-pollution-the-dirty-little-secret-that-gave-me-full-backend-access-%EF%B8%8F-f7777c569648
