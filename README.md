@@ -604,3 +604,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - HTTP Parameter Pollution: The Dirty Little Secret That Gave Me Full Backend Access
   
   https://medium.com/bugbountywriteup/http-parameter-pollution-the-dirty-little-secret-that-gave-me-full-backend-access-%EF%B8%8F-f7777c569648
+
+- You’re Missing Bugs If You’re Not Reconning Like This
+
+  https://su6osec.medium.com/youre-missing-bugs-if-you-re-not-reconning-like-this-c037e0fbbb8a
