@@ -621,3 +621,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - SSRF: When Your Server Becomes a Nosy Hacker
 
   https://medium.com/@hettt/ssrf-when-your-server-becomes-a-nosy-hacker-part-1-f808b9513652
+
+- The Hidden Graph: How API Rate Limits Lied and Let Me Scrape Millions
+
+  https://medium.com/@iski/the-hidden-graph-how-api-rate-limits-lied-and-let-me-scrape-millions-761a7cc99270
