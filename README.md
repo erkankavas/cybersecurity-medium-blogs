@@ -625,3 +625,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - The Hidden Graph: How API Rate Limits Lied and Let Me Scrape Millions
 
   https://medium.com/@iski/the-hidden-graph-how-api-rate-limits-lied-and-let-me-scrape-millions-761a7cc99270
+
+- Fake Logins, Real Costs: The OTP Bug Worth €X,XXX
+  
+  https://medium.com/bugbountywriteup/fake-logins-real-costs-the-otp-bug-worth-x-xxx-74a422791385
