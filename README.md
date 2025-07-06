@@ -633,3 +633,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - Hacking a Birthday Campaign on a Food Delivery App — Bug Bounty: $1.000+
 
   https://infosecwriteups.com/hacking-a-birthday-campaign-on-a-food-delivery-app-bug-bounty-1-000-22926fee1c31
+
+- Just Wanted to Be a Driver, Ended Up Discovering a Time Capsule
+  
+  https://medium.com/bugbountywriteup/just-wanted-to-be-a-driver-ended-up-discovering-a-time-capsule-085808a4baa8
