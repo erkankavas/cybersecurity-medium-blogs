@@ -637,3 +637,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - Just Wanted to Be a Driver, Ended Up Discovering a Time Capsule
   
   https://medium.com/bugbountywriteup/just-wanted-to-be-a-driver-ended-up-discovering-a-time-capsule-085808a4baa8
+
+- Cariddi: Bug Bounty Recon
+  
+  https://medium.com/meetcyber/cariddi-ultimate-bug-bounty-recon-354f44f8bc9d
