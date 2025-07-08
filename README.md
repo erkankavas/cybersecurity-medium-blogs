@@ -6,7 +6,7 @@ This repository serves as a collection of insightful and informative blog posts 
 
   As a bug hunter, it is essential to remain ethical and handle such situations professionally. Some individuals react impulsively and retaliate inappropriately in such cases. However, it’s crucial to maintain self-control.
 
-  sqlmap -u "targetlink" -p parameter --tamper=space2comment --dbs --random-agent
+  ``sqlmap -u "targetlink" -p parameter --tamper=space2comment --dbs --random-agent``
 
   https://medium.com/@erkankavas/sqli-time-based-blind-finding-methods-cdef02de2d0e
 
