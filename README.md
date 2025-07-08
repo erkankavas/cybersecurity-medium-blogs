@@ -6,6 +6,10 @@ This repository serves as a collection of insightful and informative blog posts 
   
   https://medium.com/@erkankavas/sqli-time-based-blind-finding-methods-cdef02de2d0e
 
+  As a bug hunter, it is essential to remain ethical and handle such situations professionally. Some individuals react impulsively and retaliate inappropriately in such cases. However, it’s crucial to maintain self-control.
+
+  sqlmap -u "targetlink" -p parameter --tamper=space2comment --dbs --random-agent
+
 - Bypassing WAFs: A Unique XSS Exploit Journey and Insights
   
   https://medium.com/@erkankavas/bypassing-wafs-a-unique-xss-exploit-journey-and-insights-520d7060c281
