@@ -8,9 +8,13 @@ This repository serves as a collection of insightful and informative blog posts 
 
   ``sqlmap -u "targetlink" -p parameter --tamper=space2comment --dbs --random-agent``
 
-- Bypassing WAFs: A Unique XSS Exploit Journey and Insights
+- **[Bypassing WAFs: A Unique XSS Exploit Journey and Insights](https://medium.com/@erkankavas/bypassing-wafs-a-unique-xss-exploit-journey-and-insights-520d7060c281)**
   
-  https://medium.com/@erkankavas/bypassing-wafs-a-unique-xss-exploit-journey-and-insights-520d7060c281
+  Using two-level encoding like this allowed us to bypass the WAF and conceal the payload.
+
+  To make such payloads more convincing, you can prepend random characters or specific terms, elevating the attack to another level.
+
+  ``%253c---key---%253e---key2—-%2528---emoji---%2529%253c%252f---key---%253e``
 
 - Discovering SQLi Vulnerabilities Through Deeper Analysis
   
