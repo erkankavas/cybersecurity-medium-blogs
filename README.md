@@ -16,9 +16,13 @@ This repository serves as a collection of insightful and informative blog posts 
 
   ``%253c---key---%253e---key2—-%2528---emoji---%2529%253c%252f---key---%253e``
 
-- Discovering SQLi Vulnerabilities Through Deeper Analysis
-  
-  https://medium.com/@erkankavas/discovering-sqli-vulnerabilities-through-deeper-analysis-4e305dfbc181
+- **[Discovering SQLi Vulnerabilities Through Deeper Analysis](https://medium.com/@erkankavas/discovering-sqli-vulnerabilities-through-deeper-analysis-4e305dfbc181)**
+
+  As I’ve mentioned before, the reconnaissance phase is incredibly important, and you should continue your reconnaissance efforts even after finding an initial vulnerability.
+
+  Every small mistake might lead you to something much bigger, so patience and keeping your eyes open are key.
+
+  ``+(select*from(select(sleep(20)))a)+`` 
 
 - Hidden Dangers of XSS Vulnerabilities — Real Case
 
