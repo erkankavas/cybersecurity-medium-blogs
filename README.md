@@ -38,12 +38,14 @@ This repository serves as a collection of insightful and informative blog posts 
 
   This list is then published on your profile. However, due to a critical oversight by the developers, it’s possible to upload XSS payloads into the list’s title field using a simple trick.
 
-  ``<script>
+  ```
+    <script>
     document.body.addEventListener('click', () => 
     setTimeout(() => 
         new Audio('https://www.myinstants.com/media/sounds/among-us-role-reveal-sound.mp3').play(), 2000), 
     { once: true });
-    </script>``
+    </script>
+  ```
 
 - A New Bug Hunting Story: Open Redirection Vulnerability
 
