@@ -47,9 +47,9 @@ This repository serves as a collection of insightful and informative blog posts 
     </script>
   ```
 
-- A New Bug Hunting Story: Open Redirection Vulnerability
+- **[A New Bug Hunting Story: Open Redirection Vulnerability](https://medium.com/meetcyber/a-new-bug-hunting-story-open-redirection-vulnerability-33a1b6374f88)**
 
-  https://medium.com/meetcyber/a-new-bug-hunting-story-open-redirection-vulnerability-33a1b6374f88
+  Open redirection bugs generally occur in areas designed to redirect users automatically after completing a form or triggering an action, such as through parameters like refURL, returnURL, followURL. These vulnerabilities can be exploited to      manipulate users into being redirected to a malicious site after completing legitimate actions on the real website.
 
 - Account Takeover in Mobile Apps: How to Exploit Vulnerabilities
 
