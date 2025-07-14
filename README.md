@@ -8,7 +8,7 @@ This repository serves as a collection of insightful and informative blog posts 
 
   ``sqlmap -u "targetlink" -p parameter --tamper=space2comment --dbs --random-agent``
 
-- **[Bypassing WAFs: A Unique XSS Exploit Journey and Insights](https://medium.com/@erkankavas/bypassing-wafs-a-unique-xss-exploit-journey-and-insights-520d7060c281)**
+- **[Bypassing WAFs: A Unique XSS Exploit Journey and Insights @erkankavas](https://medium.com/@erkankavas/bypassing-wafs-a-unique-xss-exploit-journey-and-insights-520d7060c281)**
   
   Using two-level encoding like this allowed us to bypass the WAF and conceal the payload.
 
@@ -16,7 +16,7 @@ This repository serves as a collection of insightful and informative blog posts 
 
   ``%253c---key---%253e---key2—-%2528---emoji---%2529%253c%252f---key---%253e``
 
-- **[Discovering SQLi Vulnerabilities Through Deeper Analysis](https://medium.com/@erkankavas/discovering-sqli-vulnerabilities-through-deeper-analysis-4e305dfbc181)**
+- **[Discovering SQLi Vulnerabilities Through Deeper Analysis @erkankavas](https://medium.com/@erkankavas/discovering-sqli-vulnerabilities-through-deeper-analysis-4e305dfbc181)**
 
   As I’ve mentioned before, the reconnaissance phase is incredibly important, and you should continue your reconnaissance efforts even after finding an initial vulnerability.
 
@@ -24,7 +24,7 @@ This repository serves as a collection of insightful and informative blog posts 
 
   ``+(select*from(select(sleep(20)))a)+`` 
 
-- **[Hidden Dangers of XSS Vulnerabilities — Real Case](https://medium.com/meetcyber/hidden-dangers-of-xss-vulnerabilities-real-case-22177daa6fc8)**
+- **[Hidden Dangers of XSS Vulnerabilities — Real Case @erkankavas](https://medium.com/meetcyber/hidden-dangers-of-xss-vulnerabilities-real-case-22177daa6fc8)**
 
   With this XSS payload, you can change the location in a reflected XSS vulnerability and redirect the page.
 
