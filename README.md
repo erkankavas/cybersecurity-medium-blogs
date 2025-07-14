@@ -51,9 +51,11 @@ This repository serves as a collection of insightful and informative blog posts 
 
   Open redirection bugs generally occur in areas designed to redirect users automatically after completing a form or triggering an action, such as through parameters like refURL, returnURL, followURL. These vulnerabilities can be exploited to      manipulate users into being redirected to a malicious site after completing legitimate actions on the real website.
 
-- Account Takeover in Mobile Apps: How to Exploit Vulnerabilities
+- **[Account Takeover in Mobile Apps: How to Exploit Vulnerabilities](https://medium.com/meetcyber/account-takeover-in-mobile-apps-how-to-exploit-vulnerabilities-dc1b55ef6891)**
 
-  https://medium.com/meetcyber/account-takeover-in-mobile-apps-how-to-exploit-vulnerabilities-dc1b55ef6891
+  In the login section, when a user logs in, if the API returns a status : success and redirects you to the member-viewing frame, it is important to check for any vulnerabilities.
+
+  Similarly, when registration is successful, the app either redirects to the main frame or shows an error message. At this point, create a temporary email, register, and analyze the requests using Burp Suite.
 
 - How i find sensitive files in 2 minutes
 
