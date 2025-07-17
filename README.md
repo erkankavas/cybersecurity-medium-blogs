@@ -57,9 +57,11 @@ This repository serves as a collection of insightful and informative blog posts 
 
   Similarly, when registration is successful, the app either redirects to the main frame or shows an error message. At this point, create a temporary email, register, and analyze the requests using Burp Suite.
 
-- How i find sensitive files in 2 minutes
+- **[How i find sensitive files in 2 minutes @securityinsights](https://medium.com/@securityinsights/how-i-find-sensitive-files-in-2-minutes-easy-bug-2-d53965b7e4f4)**
 
-  https://medium.com/@securityinsights/how-i-find-sensitive-files-in-2-minutes-easy-bug-2-d53965b7e4f4
+  While browsing a website, we only see the content intended for users. But wait — there’s more! Hidden files on websites may contain sensitive information like usernames, passwords, API keys, personal data, organizational secrets, cookies, or     tokens.
+
+  Some files might even be left on the server by mistake. If these fall into a hacker’s hands, they could lead to a serious data breach.
 
 - Zero-Click Account Takeover
 
