@@ -63,9 +63,12 @@ This repository serves as a collection of insightful and informative blog posts 
 
   Some files might even be left on the server by mistake. If these fall into a hacker’s hands, they could lead to a serious data breach.
 
-- Zero-Click Account Takeover
+- **[Zero-Click Account Takeover @osamamohamed21212121](https://medium.com/@osamamohamed21212121/zero-click-account-takeover-critical-bug-ab31f27b8674)**
 
-  https://medium.com/@osamamohamed21212121/zero-click-account-takeover-critical-bug-ab31f27b8674
+  Account takeover vulnerabilities are among the most critical security flaws as they allow attackers to gain full control over user accounts. There are two main types of account takeover vulnerabilities:
+
+  1- Zero-Click Account Takeover: This type does not require any interaction from the victim.
+  2- One-Click Account Takeover: This type requires minimal interaction, such as clicking a link.
 
 - Bypassing Rate Limit Protection to Account Takeover
 
