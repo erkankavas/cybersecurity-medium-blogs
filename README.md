@@ -67,8 +67,8 @@ This repository serves as a collection of insightful and informative blog posts 
 
   Account takeover vulnerabilities are among the most critical security flaws as they allow attackers to gain full control over user accounts. There are two main types of account takeover vulnerabilities:
 
-  1- Zero-Click Account Takeover: This type does not require any interaction from the victim.
-  2- One-Click Account Takeover: This type requires minimal interaction, such as clicking a link.
+  - Zero-Click Account Takeover: This type does not require any interaction from the victim.
+  - One-Click Account Takeover: This type requires minimal interaction, such as clicking a link.
 
 - Bypassing Rate Limit Protection to Account Takeover
 
