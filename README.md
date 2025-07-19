@@ -70,9 +70,9 @@ This repository serves as a collection of insightful and informative blog posts 
   - Zero-Click Account Takeover: This type does not require any interaction from the victim.
   - One-Click Account Takeover: This type requires minimal interaction, such as clicking a link.
 
-- Bypassing Rate Limit Protection to Account Takeover
-
-  https://medium.com/@sohailahmed0x0/bypassing-rate-limit-protection-to-account-takeover-fe44598fc1df
+- **[Bypassing Rate Limit Protection to Account Takeover @sohailahmed0x0](https://medium.com/@sohailahmed0x0/bypassing-rate-limit-protection-to-account-takeover-fe44598fc1df)**
+  
+  Rate limit vulnerabilities are security weaknesses that occur when a system or service doesn’t properly enforce limits on how many requests a user or system can make in a given time period. Essentially, these vulnerabilities arise when the       system allows excessive requests from the same source or allows the rate of requests to exceed what is typical or safe.
 
 - How I Found a Bug in Sony and Earned Exclusive Swag!
 
