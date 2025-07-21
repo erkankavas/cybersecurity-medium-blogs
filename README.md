@@ -74,9 +74,17 @@ This repository serves as a collection of insightful and informative blog posts 
   
   Rate limit vulnerabilities are security weaknesses that occur when a system or service doesn’t properly enforce limits on how many requests a user or system can make in a given time period. Essentially, these vulnerabilities arise when the       system allows excessive requests from the same source or allows the rate of requests to exceed what is typical or safe.
 
-- How I Found a Bug in Sony and Earned Exclusive Swag!
+- **[How I Found a Bug in Sony and Earned Exclusive Swag! @josekuttykunnelthazhebinu](https://medium.com/@josekuttykunnelthazhebinu/how-i-found-a-bug-in-sony-and-earned-exclusive-swag-f565d56c395e)**
 
-  https://medium.com/@josekuttykunnelthazhebinu/how-i-found-a-bug-in-sony-and-earned-exclusive-swag-f565d56c395e
+  After some analysis, I came across an interesting parameter named error. This caught my attention, and I knew it was worth digging deeper.
+
+  The url was like this:
+
+  ```
+  https://target.com/my/login/errormessage?error=
+  ```
+  
+  I tried the text injection and when I added the injection text it was not reflecting the way I expected, then I encoded the text and when submitted it was reflecting in the page in the format as expected.
 
 - Easiest $225 Ever: A Simple SQL Injection Win!
   
