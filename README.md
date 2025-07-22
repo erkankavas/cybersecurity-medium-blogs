@@ -86,9 +86,16 @@ This repository serves as a collection of insightful and informative blog posts 
   
   I tried the text injection and when I added the injection text it was not reflecting the way I expected, then I encoded the text and when submitted it was reflecting in the page in the format as expected.
 
-- Easiest $225 Ever: A Simple SQL Injection Win!
+- **[Easiest $225 Ever: A Simple SQL Injection Win! @whoadnan01](https://medium.com/@whoadnan01/easiest-225-ever-a-simple-sql-injection-win-f40c0a6b8e45)**
+
+  This left me with around 50–60 live subdomains. From there, I randomly picked about 20–30 subdomains and opened them all at once using a Chrome extension called “Open Multiple URLs.”
+  While going through the subdomains, a few immediately stood out. One of them had a “page=” parameter in the URL, which instantly caught my attention.
   
-  https://medium.com/@whoadnan01/easiest-225-ever-a-simple-sql-injection-win-f40c0a6b8e45
+  ```
+  subfinder -d example.com -o example.txt
+  cat example.txt | httpx -status-code -mc 200,301 -silent
+
+  ```
 
 - From Newbie to Pro: My Journey to a $3,000 Bug Bounty
   
