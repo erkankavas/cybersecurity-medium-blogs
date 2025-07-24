@@ -97,10 +97,12 @@ This repository serves as a collection of insightful and informative blog posts 
 
   ```
 
-- From Newbie to Pro: My Journey to a $3,000 Bug Bounty
+- **[From Newbie to Pro: My Journey to a $3,000 Bug Bounty @myselfakash20](https://medium.com/bugbountywriteup/from-newbie-to-pro-my-journey-to-a-3-000-bug-bounty-61abe935e3db)**
   
-  https://medium.com/bugbountywriteup/from-newbie-to-pro-my-journey-to-a-3-000-bug-bounty-61abe935e3db
+  It took weeks of persistence before I found my first vulnerability. It was an IDOR (Insecure Direct Object Reference) in a small web app. By manipulating a single parameter in the URL, I could access invoices from other users.
 
+  It was like magic — one parameter changed, and the doors swung open!
+  
 - Discovering a Critical Vulnerability in Deepseek’s Password Reset Functionality leads to Zero Click Account Takeover
 
   https://medium.com/@teamtea.ye/discovering-a-critical-vulnerability-in-deepseeks-password-reset-functionality-leads-to-zero-click-96c597fe852c
