@@ -694,3 +694,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - How I Found My First Critical Bug: Account Takeover via Email Verification Bypass
 
   https://medium.com/@4m3n_d/how-i-found-my-first-critical-bug-account-takeover-via-email-verification-bypass-7481b814f902
+
+- Subdomain Dork Recon via 3rd party
+
+  https://medium.com/legionhunters/subdomain-dork-recon-via-3rd-party-54ea05b59a62
