@@ -698,3 +698,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - Subdomain Dork Recon via 3rd party
 
   https://medium.com/legionhunters/subdomain-dork-recon-via-3rd-party-54ea05b59a62
+
+- Mass Message Injection and IDOR in Account Verification
+
+  https://medium.com/@kingcoolvikas/mass-message-injection-and-idor-in-account-verification-c599b729321d
