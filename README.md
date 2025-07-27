@@ -702,3 +702,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - Mass Message Injection and IDOR in Account Verification
 
   https://medium.com/@kingcoolvikas/mass-message-injection-and-idor-in-account-verification-c599b729321d
+
+= Manus AI Agent for Red Teamers
+
+  https://medium.com/ai-apocalypse/manus-ai-agent-for-red-teamers-a7117e421fc2
