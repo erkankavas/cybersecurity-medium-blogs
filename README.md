@@ -710,3 +710,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - Firebase Storage Bucket Recon
 
   https://medium.com/legionhunters/firebase-storage-bucket-recon-df5e5acb65e2
+
+- $600 Bug Bounty received but in Parallel Universe
+
+  https://medium.com/developersglobal/600-bounty-received-but-in-parallel-universe-a5466300446d
