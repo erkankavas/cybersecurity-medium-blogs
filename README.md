@@ -623,7 +623,7 @@ This repository serves as a collection of insightful and informative blog posts 
 
   https://medium.com/legionhunters/how-i-chained-recon-and-idor-to-access-100s-of-credit-cards-0ca50eb82a74
 
-- How a Simple Bookmark Earned a Two-Digit € Bug Bounty
+- How a Simple Bookmark Earned a Two-Digit € Bug Bounty.
 
   https://medium.com/meetcyber/how-a-simple-bookmark-earned-a-two-digit-bug-bounty-0a956537e5e5
 
