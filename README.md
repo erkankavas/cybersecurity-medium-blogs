@@ -718,3 +718,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - Fuzzing Techniques for Maximum Bug Bounty Impact — ffufai Tool
 
   https://medium.com/bugbountywriteup/fuzzing-techniques-for-maximum-bug-bounty-impact-ffufai-tool-74e21735d6f1
+
+- IDOR allow Zero Click account takeover on a web3 program
+  
+  https://medium.com/bugbountywriteup/idor-allow-zero-click-account-takeover-on-a-web3-program-abef994d2aef
