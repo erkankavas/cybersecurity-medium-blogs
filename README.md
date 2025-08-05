@@ -734,3 +734,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - Clean-Up Fail: How a Forgotten Admin Endpoint
   
   https://medium.com/bugbountywriteup/clean-up-fail-how-a-forgotten-admin-endpoint-let-me-drop-all-the-data-%EF%B8%8F-1e1c376a986a
+
+- From Zero to $1000
+  
+  https://medium.com/bugbountywriteup/from-zero-to-1000-month-bug-bounty-automation-blueprint-c408bce3e943
