@@ -742,3 +742,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - I Found a Major Privacy Leak in a Popular Social App
   
   https://medium.com/@kkonann/i-found-a-major-privacy-leak-in-a-popular-social-app-just-because-a-friend-said-check-this-out-cd7edd798e32
+
+- Unauthorized Privilege Escalation in Role Logic
+
+  https://medium.com/@edahmed008/unauthorized-privilege-escalation-in-role-logic-5271f34e652c
