@@ -738,3 +738,7 @@ This repository serves as a collection of insightful and informative blog posts 
 - From Zero to $1000
   
   https://medium.com/bugbountywriteup/from-zero-to-1000-month-bug-bounty-automation-blueprint-c408bce3e943
+  
+- I Found a Major Privacy Leak in a Popular Social App
+  
+  https://medium.com/@kkonann/i-found-a-major-privacy-leak-in-a-popular-social-app-just-because-a-friend-said-check-this-out-cd7edd798e32
