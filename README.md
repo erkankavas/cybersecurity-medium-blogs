@@ -595,10 +595,6 @@ This repository serves as a collection of insightful and informative blog posts 
 
   https://medium.com/@ibtissamhammadi1/how-i-made-4-260-bypassing-a-simple-username-bug-d969868025c7
 
-- OSINT Guide Pt 1 :Using Flatpak + Tor for Telegram OSINT
-
-  https://medium.com/@hacktheplanet/osint-guide-pt-1-using-flatpak-tor-for-telegram-osint-73cd66825c2f
-
 - The Most Underrated 0-Click Account Takeover Using Punycode IDN Homograph Attacks
 
   https://medium.com/bugbountywriteup/the-most-underrated-0-click-account-takeover-using-punycode-idn-attacks-c0afdb74a3dc
