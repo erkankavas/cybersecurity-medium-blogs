@@ -659,10 +659,6 @@ This repository serves as a collection of insightful and informative blog posts 
   
   https://medium.com/@m4kr0x/flutter-tls-bypass-how-to-intercept-https-traffic-when-all-other-frida-scripts-fail-bd3d04489088
 
-- AI Powered Android APK Vulnerability Detection Tool
-
-  https://medium.com/ai-apocalypse/ai-powered-android-apk-vulnerability-detection-tool-b371aaee3552
-
 - SSRF: When Your Server Becomes a Nosy Hacker
 
   https://medium.com/@hettt/ssrf-when-your-server-becomes-a-nosy-hacker-part-1-f808b9513652
