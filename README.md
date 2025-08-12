@@ -643,10 +643,6 @@ This repository serves as a collection of insightful and informative blog posts 
   
   https://medium.com/bugbountywriteup/http-parameter-pollution-the-dirty-little-secret-that-gave-me-full-backend-access-%EF%B8%8F-f7777c569648
 
-- You’re Missing Bugs If You’re Not Reconning Like This
-
-  https://su6osec.medium.com/youre-missing-bugs-if-you-re-not-reconning-like-this-c037e0fbbb8a
-
 - Flutter SSL Bypass
   
   https://medium.com/@m4kr0x/flutter-tls-bypass-how-to-intercept-https-traffic-when-all-other-frida-scripts-fail-bd3d04489088
