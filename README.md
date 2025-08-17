@@ -175,10 +175,6 @@ This repository serves as a collection of insightful and informative blog posts 
 
   https://medium.com/cybersecuritywriteups/automate-open-redirect-and-earn-250-200-100-b6bfd75a5dc7
 
-- Bug Report Rejected? Here’s What You Can Do!
-  
-  https://medium.com/@HackerNasr/bug-report-rejected-heres-what-you-can-do-b4407d7c19b8
-
 - CSRF Bypass Combined with IDOR To Complete Account Takeover!
 
   https://medium.com/@omarzzu/csrf-bypass-combined-with-idor-to-complete-account-takeover-f4995c5946d3
