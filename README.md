@@ -139,10 +139,6 @@ This repository serves as a collection of insightful and informative blog posts 
 
   https://medium.com/meetcyber/running-deepseek-locally-on-macos-with-ollama-cd8cd5d6dfce
 
-- How i found Location of Users in Public BBP
-
-  https://medium.com/system-weakness/how-i-found-location-of-users-in-public-bbp-in-2-minutes-easy-bug-3-143378a4c35d
-
 - Mobile Pentesting with Frida: A Beginner’s Guide
 
   https://medium.com/meetcyber/mobile-pentesting-with-frida-a-beginners-guide-996411fa0202
