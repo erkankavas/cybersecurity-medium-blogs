@@ -123,10 +123,6 @@ This repository serves as a collection of insightful and informative blog posts 
   
   https://medium.com/meetcyber/exploring-a-new-sqli-vulnerability-a-ghauri-experience-541c588dc00d
 
-- 1000$ Bounty: OAuth Bypass
-  
-  https://medium.com/cybersecuritywriteups/1000-bounty-oauth-bypass-97c3658729c0
-
 - Automating Ghauri for SQLi with Bash Script
 
   https://medium.com/meetcyber/automating-ghauri-for-sqli-with-bash-script-6ce8fb62c367
