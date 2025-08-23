@@ -207,10 +207,6 @@ This repository serves as a collection of insightful and informative blog posts 
 
   https://medium.com/@mohammed0x04/how-i-found-two-api-vulnerabilities-using-website-source-code-6c4b0dc54d6f
 
-- Stored xss using PDF 👾 a bug?
-
-  https://medium.com/@dsmodi484/stored-xss-using-pdf-a-bug-0690125015bb
-
 - Hidden Gems: Simple Exploits Overlooked by Most Bug Hunters
 
   https://medium.com/infosecmatrix/hidden-gems-simple-exploits-overlooked-by-most-bug-hunters-3113cc1db4b8
