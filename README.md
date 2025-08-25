@@ -147,10 +147,6 @@ This repository serves as a collection of insightful and informative blog posts 
 
   https://medium.com/h7w/how-to-discover-exif-metadata-leaks-from-images-easy-p4-p3-bugs-44cf6b1cb875
 
-- How I Found Multiple SQL Injections in 5 Minutes in Bug Bounty
-
-  https://medium.com/bugbountywriteup/how-i-found-multiple-sql-injections-in-5-minutes-in-bug-bounty-40155964c498
-
 - Finding CSRF Vulnerabilities!
 
   https://medium.com/@kumawatabhijeet2002/earn-by-finding-csrf-vulnerabilities-638f876918cf
