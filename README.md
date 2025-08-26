@@ -223,10 +223,6 @@ This repository serves as a collection of insightful and informative blog posts 
 
   https://medium.com/@ratnadip1998/how-to-find-access-admin-panel-by-digging-into-js-files-282d89391a2d
 
-- How to find & access Admin Panel by digging into JS files
-
-  https://medium.com/@ratnadip1998/how-to-find-access-admin-panel-by-digging-into-js-files-282d89391a2d
-
 - How Interesting 2FA Bypass Through Browser Feature
 
   https://medium.com/@dishantsingh989/how-interesting-2fa-bypass-through-browser-feature-lead-me-to-critical-vulnerability-18f9c72a8f8d
