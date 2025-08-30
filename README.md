@@ -179,10 +179,6 @@ This repository serves as a collection of insightful and informative blog posts 
 
   https://medium.com/meetcyber/extended-guide-to-installing-deepseek-ai-on-ubuntu-bce1529de75c
 
-- The Forgotten Google Services: Google Alerts
-
-  https://medium.com/pndsec/the-forgotten-google-services-google-alerts-74502ba9c963
-
 - The Power of OSINT: Tracking Torrent Activity with Python
 
   https://medium.com/meetcyber/the-power-of-osint-tracking-torrent-activity-with-python-a3246f5217e3
