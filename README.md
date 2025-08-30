@@ -163,10 +163,6 @@ This repository serves as a collection of insightful and informative blog posts 
 
   https://medium.com/@omarzzu/csrf-bypass-combined-with-idor-to-complete-account-takeover-f4995c5946d3
 
-- How I Discovered a Critical PII on the main domain via Cookie Manipulation
-
-  https://medium.com/@hhack4737/how-i-discovered-a-critical-pii-on-the-main-domain-via-cookie-manipulation-588a3f79710d
-
 - Hijacking Sessions with IDOR and XSS— @bxmbn
 
   https://medium.com/@bxmbn/hijacking-sessions-with-idor-and-xss-bxmbn-396f99761a85
