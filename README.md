@@ -515,10 +515,6 @@ This repository serves as a collection of insightful and informative blog posts 
   
   https://medium.com/bugbountywriteup/404-to-4-000-exposed-git-env-and-hidden-dev-files-via-predictable-paths-f5723b3ad3f8
 
-- How I Made $4,260 Bypassing a Simple Username Bug
-
-  https://medium.com/@ibtissamhammadi1/how-i-made-4-260-bypassing-a-simple-username-bug-d969868025c7
-
 - The Most Underrated 0-Click Account Takeover Using Punycode IDN Homograph Attacks
 
   https://medium.com/bugbountywriteup/the-most-underrated-0-click-account-takeover-using-punycode-idn-attacks-c0afdb74a3dc
