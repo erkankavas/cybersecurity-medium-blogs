@@ -503,10 +503,6 @@ This repository serves as a collection of insightful and informative blog posts 
 
   https://medium.com/@alkaptonurea/how-i-found-a-secondary-sql-injection-in-a-top-3-gaming-platform-abdd4eb461a7
 
-- I reproduced a $10,000 bug
-
-  https://medium.com/bugbountywriteup/i-reproduced-a-10-000-bug-28466603e45e
-
 - ISC2 Certified in Cybersecurity CC exam
 
   https://medium.com/@erkankavas/isc2-certified-in-cybersecurity-cc-exam-86cccb3d976d
