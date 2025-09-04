@@ -183,10 +183,6 @@ This repository serves as a collection of insightful and informative blog posts 
 
   https://medium.com/@danielbelay/day-20-admin-account-takeover-via-weird-password-reset-functionality-33afb15fa4c0
 
-- How I found two api vulnerabilities by analyzing JS source code
-
-  https://medium.com/@mohammed0x04/how-i-found-two-api-vulnerabilities-using-website-source-code-6c4b0dc54d6f
-
 - Hidden Gems: Simple Exploits Overlooked by Most Bug Hunters
 
   https://medium.com/infosecmatrix/hidden-gems-simple-exploits-overlooked-by-most-bug-hunters-3113cc1db4b8
