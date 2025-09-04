@@ -143,10 +143,6 @@ This repository serves as a collection of insightful and informative blog posts 
 
   https://medium.com/@som3a/user-interface-says-no-backend-says-yes-story-of-bypassing-email-verification-b469f20a141f
 
-- How to Discover EXIF Metadata Leaks from Images
-
-  https://medium.com/h7w/how-to-discover-exif-metadata-leaks-from-images-easy-p4-p3-bugs-44cf6b1cb875
-
 - Finding CSRF Vulnerabilities!
 
   https://medium.com/@kumawatabhijeet2002/earn-by-finding-csrf-vulnerabilities-638f876918cf
