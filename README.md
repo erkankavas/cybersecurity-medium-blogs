@@ -319,10 +319,6 @@ This repository serves as a collection of insightful and informative blog posts 
 
   https://medium.com/the-first-digit/hours-of-recon-one-vulnerable-parameter-and-boom-sql-injection-found-e7f2bb74d423
 
-- How I made $64k from deleted files
-
-  https://medium.com/@sharon.brizinov/how-i-made-64k-from-deleted-files-a-bug-bounty-story-c5bd3a6f5f9b
-
 - Non-English Dorks to Find Bug Bounty & VDP Programs
 
   https://medium.com/cybersecuritywriteups/non-english-dorks-to-find-bug-bounty-vdp-programs-d799f0a5161c
