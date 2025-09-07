@@ -167,10 +167,6 @@ This repository serves as a collection of insightful and informative blog posts 
   
   https://medium.com/@mo9khu93r/discovered-a-unique-email-verification-bypass-47bb1e955a13
 
-- Bug using simple Graphql Introspection query
-  
-  https://medium.com/bugbountywriteup/1000-bug-using-simple-graphql-introspection-query-b68da8260877
-
 - Extended Guide to Installing DeepSeek AI on Ubuntu
 
   https://medium.com/meetcyber/extended-guide-to-installing-deepseek-ai-on-ubuntu-bce1529de75c
