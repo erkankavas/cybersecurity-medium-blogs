@@ -187,10 +187,6 @@ This repository serves as a collection of insightful and informative blog posts 
 
   https://medium.com/the-first-digit/bug-hunting-recon-guide-find-hidden-vulnerabilities-like-a-pro-353accfe65c4
 
-- How you can find your first bug using google
-
-  https://medium.com/@shellyshubh/how-you-can-find-your-first-bug-using-google-c9327f82632e
-
 - Understanding Basic Chmod
   
   https://medium.com/pndsec/understanding-basic-chmod-8b93a82baf95
