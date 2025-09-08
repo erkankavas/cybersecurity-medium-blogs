@@ -149,11 +149,7 @@ This repository serves as a collection of insightful and informative blog posts 
 
 - Turning XSS into Account Takeover
 
-  https://medium.com/@HackerNasr/turning-xss-into-account-takeover-ato-how-to-level-up-your-exploit-16126c271476
-
-- Automate Open Redirect and Earn
-
-  https://medium.com/cybersecuritywriteups/automate-open-redirect-and-earn-250-200-100-b6bfd75a5dc7
+  https://medium.com/@HackerNasr/turning-xss-into-account-takeover-ato-how-to-level-up-your-exploit-16126c27147
 
 - CSRF Bypass Combined with IDOR To Complete Account Takeover!
 
