@@ -415,9 +415,6 @@ This repository serves as a collection of insightful and informative blog posts 
 
   https://medium.com/meetcyber/the-2-000-sqli-story-hours-payloads-and-pure-stubbornness-05eab4c7b968
 
-- WayBackLister : Innovative Directory Bruteforcing Technique
-
-  https://medium.com/system-weakness/waybacklister-innovative-directory-bruteforcing-technique-43535da40bc4
 
 - How Blind XSS in Email Notifications Gave Me Root Alerts
 
