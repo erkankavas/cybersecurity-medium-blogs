@@ -492,10 +492,6 @@ This repository serves as a collection of insightful and informative blog posts 
 
   https://medium.com/meetcyber/how-a-simple-bookmark-earned-a-two-digit-bug-bounty-0a956537e5e5
 
-- $1,000-Value Bug: Abusing Cookie-Based Voting to Manipulate Comments at Scale
-
-  https://medium.com/bugbountywriteup/1-000-value-bug-abusing-cookie-based-voting-to-manipulate-comments-at-scale-7e3f3b672ad7
-
 - JavaScript Proxies — The Most Underrated Superpower in JS
   
   https://medium.com/@theNewGenCoder/javascript-proxies-the-most-underrated-superpower-in-js-c907d5deb932
