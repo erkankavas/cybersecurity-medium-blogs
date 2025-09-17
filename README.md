@@ -532,10 +532,6 @@ This repository serves as a collection of insightful and informative blog posts 
   
   https://medium.com/bugbountywriteup/just-wanted-to-be-a-driver-ended-up-discovering-a-time-capsule-085808a4baa8
 
-- Cariddi: Bug Bounty Recon
-  
-  https://medium.com/meetcyber/cariddi-ultimate-bug-bounty-recon-354f44f8bc9d
-
 - How I Found My First Critical Bug: Account Takeover via Email Verification Bypass
 
   https://medium.com/@4m3n_d/how-i-found-my-first-critical-bug-account-takeover-via-email-verification-bypass-7481b814f902
