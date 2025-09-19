@@ -456,10 +456,6 @@ This repository serves as a collection of insightful and informative blog posts 
 
   https://medium.com/the-first-digit/simple-2fa-bypass-techniques-for-beginners-edec48befa23
 
-- How I Found a Secondary SQL Injection in a Top 3 Gaming Platform
-
-  https://medium.com/@alkaptonurea/how-i-found-a-secondary-sql-injection-in-a-top-3-gaming-platform-abdd4eb461a7
-
 - ISC2 Certified in Cybersecurity CC exam
 
   https://medium.com/@erkankavas/isc2-certified-in-cybersecurity-cc-exam-86cccb3d976d
