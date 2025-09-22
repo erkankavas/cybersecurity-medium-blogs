@@ -508,10 +508,6 @@ This repository serves as a collection of insightful and informative blog posts 
 
   https://medium.com/@iski/the-hidden-graph-how-api-rate-limits-lied-and-let-me-scrape-millions-761a7cc99270
 
-- Fake Logins, Real Costs: The OTP Bug Worth €X,XXX
-  
-  https://medium.com/bugbountywriteup/fake-logins-real-costs-the-otp-bug-worth-x-xxx-74a422791385
-
 - Hacking a Birthday Campaign on a Food Delivery App — Bug Bounty: $1.000+
 
   https://infosecwriteups.com/hacking-a-birthday-campaign-on-a-food-delivery-app-bug-bounty-1-000-22926fee1c31
