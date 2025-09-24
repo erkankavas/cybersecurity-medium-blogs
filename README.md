@@ -548,10 +548,6 @@ This repository serves as a collection of insightful and informative blog posts 
   
   https://medium.com/bugbountywriteup/insecure-by-design-how-a-mobile-api-let-me-reset-anyones-password-with-just-a-phone-number-ba588ec384e5
 
-- URL Discovery: Hunt
-
-  https://medium.com/bugbountywriteup/url-discovery-hunt-where-others-arent-hunting-recon-part-8-e0368b9aaf81
-
 - Clean-Up Fail: How a Forgotten Admin Endpoint
   
   https://medium.com/bugbountywriteup/clean-up-fail-how-a-forgotten-admin-endpoint-let-me-drop-all-the-data-%EF%B8%8F-1e1c376a986a
