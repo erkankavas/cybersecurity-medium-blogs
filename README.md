@@ -492,10 +492,6 @@ This repository serves as a collection of insightful and informative blog posts 
   
   https://medium.com/bugbountywriteup/http-parameter-pollution-the-dirty-little-secret-that-gave-me-full-backend-access-%EF%B8%8F-f7777c569648
 
-- Flutter SSL Bypass
-  
-  https://medium.com/@m4kr0x/flutter-tls-bypass-how-to-intercept-https-traffic-when-all-other-frida-scripts-fail-bd3d04489088
-
 - SSRF: When Your Server Becomes a Nosy Hacker
 
   https://medium.com/@hettt/ssrf-when-your-server-becomes-a-nosy-hacker-part-1-f808b9513652
