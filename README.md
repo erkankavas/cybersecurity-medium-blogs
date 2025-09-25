@@ -532,10 +532,6 @@ This repository serves as a collection of insightful and informative blog posts 
 
   https://medium.com/legionhunters/firebase-storage-bucket-recon-df5e5acb65e2
 
-- $600 Bug Bounty received but in Parallel Universe
-
-  https://medium.com/developersglobal/600-bounty-received-but-in-parallel-universe-a5466300446d
-
 - Fuzzing Techniques for Maximum Bug Bounty Impact — ffufai Tool
 
   https://medium.com/bugbountywriteup/fuzzing-techniques-for-maximum-bug-bounty-impact-ffufai-tool-74e21735d6f1
