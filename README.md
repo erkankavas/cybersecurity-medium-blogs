@@ -460,10 +460,6 @@ This repository serves as a collection of insightful and informative blog posts 
 
   https://medium.com/the-first-digit/the-500-facebook-bug-that-taught-me-the-real-meaning-of-respect-383d48be16ae
 
-- I Found 50+ Exploitable Devices in 1 Hour Using Shodan Dorking
-
-  https://medium.com/bugbountywriteup/i-found-50-exploitable-devices-in-1-hour-using-shodan-dorking-49e825ca0f3e
-
 - When Session Fixation Meets Session Confusion: A Case of Cross-User Control
 
   https://medium.com/bugbountywriteup/when-session-fixation-meets-session-confusion-a-case-of-cross-user-control-bb2cd0d478e8
