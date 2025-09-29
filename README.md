@@ -179,10 +179,6 @@ This repository serves as a collection of insightful and informative blog posts 
 
   https://medium.com/infosecmatrix/hidden-gems-simple-exploits-overlooked-by-most-bug-hunters-3113cc1db4b8
 
-- Bug Hunting Recon Guide: Find Hidden Vulnerabilities Like a Pro
-
-  https://medium.com/the-first-digit/bug-hunting-recon-guide-find-hidden-vulnerabilities-like-a-pro-353accfe65c4
-
 - Understanding Basic Chmod
   
   https://medium.com/pndsec/understanding-basic-chmod-8b93a82baf95
