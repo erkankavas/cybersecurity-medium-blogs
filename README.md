@@ -363,10 +363,6 @@ This repository serves as a collection of insightful and informative blog posts 
 
   https://medium.com/@iski/title-filter-failure-from-html-injection-to-full-blown-xss-via-rich-text-editors-af6809e248b4
 
-- $256 Bounty : XSS via Web Cache Poisoning in Discourse
-
-  https://infosecwriteups.com/256-bounty-xss-via-web-cache-poisoning-in-discourse-594d5961555e
-
 - POC — Remote and unauthenticated attacker can send crafted HTTP requests to execute arbitrary code
 
   https://medium.com/@verylazytech/poc-remote-and-unauthenticated-attacker-can-send-crafted-http-requests-to-execute-arbitrary-code-4b591d45ff4f
