@@ -147,10 +147,6 @@ This repository serves as a collection of insightful and informative blog posts 
 
   https://medium.com/@kumawatabhijeet2002/earn-by-finding-csrf-vulnerabilities-638f876918cf
 
-- Turning XSS into Account Takeover
-
-  https://medium.com/@HackerNasr/turning-xss-into-account-takeover-ato-how-to-level-up-your-exploit-16126c27147
-
 - CSRF Bypass Combined with IDOR To Complete Account Takeover!
 
   https://medium.com/@omarzzu/csrf-bypass-combined-with-idor-to-complete-account-takeover-f4995c5946d3
