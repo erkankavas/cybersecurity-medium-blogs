@@ -495,10 +495,6 @@ The bug here is that if I send a role change request directly to the backend, I 
 
   https://medium.com/@kingcoolvikas/mass-message-injection-and-idor-in-account-verification-c599b729321d
 
-- Firebase Storage Bucket Recon
-
-  https://medium.com/legionhunters/firebase-storage-bucket-recon-df5e5acb65e2
-
 - Fuzzing Techniques for Maximum Bug Bounty Impact — ffufai Tool
 
   https://medium.com/bugbountywriteup/fuzzing-techniques-for-maximum-bug-bounty-impact-ffufai-tool-74e21735d6f1
