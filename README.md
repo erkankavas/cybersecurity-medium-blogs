@@ -487,10 +487,6 @@ The bug here is that if I send a role change request directly to the backend, I 
 
   https://medium.com/@4m3n_d/how-i-found-my-first-critical-bug-account-takeover-via-email-verification-bypass-7481b814f902
 
-- Subdomain Dork Recon via 3rd party
-
-  https://medium.com/legionhunters/subdomain-dork-recon-via-3rd-party-54ea05b59a62
-
 - Mass Message Injection and IDOR in Account Verification
 
   https://medium.com/@kingcoolvikas/mass-message-injection-and-idor-in-account-verification-c599b729321d
