@@ -491,10 +491,6 @@ The bug here is that if I send a role change request directly to the backend, I 
 
   https://medium.com/@kingcoolvikas/mass-message-injection-and-idor-in-account-verification-c599b729321d
 
-- Fuzzing Techniques for Maximum Bug Bounty Impact — ffufai Tool
-
-  https://medium.com/bugbountywriteup/fuzzing-techniques-for-maximum-bug-bounty-impact-ffufai-tool-74e21735d6f1
-
 - IDOR allow Zero Click account takeover on a web3 program
   
   https://medium.com/bugbountywriteup/idor-allow-zero-click-account-takeover-on-a-web3-program-abef994d2aef
