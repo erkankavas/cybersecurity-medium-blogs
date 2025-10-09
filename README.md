@@ -178,10 +178,6 @@ The bug here is that if I send a role change request directly to the backend, I 
 
   https://medium.com/@danielbelay/day-20-admin-account-takeover-via-weird-password-reset-functionality-33afb15fa4c0
 
-- Hidden Gems: Simple Exploits Overlooked by Most Bug Hunters
-
-  https://medium.com/infosecmatrix/hidden-gems-simple-exploits-overlooked-by-most-bug-hunters-3113cc1db4b8
-
 - Understanding Basic Chmod
   
   https://medium.com/pndsec/understanding-basic-chmod-8b93a82baf95
