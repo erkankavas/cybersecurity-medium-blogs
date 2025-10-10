@@ -190,10 +190,6 @@ The bug here is that if I send a role change request directly to the backend, I 
 
   https://medium.com/@dharineeshj2/idor-unlocked-accessing-unauthorized-data-with-a-simple-tweak-a6a5a01a341f
 
-- Advanced Chmod Usage
-  
-  https://medium.com/meetcyber/advanced-chmod-usage-46fad41e3330
-
 - Can You Find a $4,500 Bug in Google Slides in Under 3 Hours
 
   https://medium.com/@ibtissamhammadi/can-you-find-a-4-500-bug-in-google-slides-in-under-3-hours-69e9113ccfd3
